@@ -1,0 +1,1001 @@
+EmployeeID,Name,Age,Gender,Department,City,Experience,Salary,Bonus,Performance,Attendance,ProjectsCompleted,JoiningDate,Manager,RemoteWork,Education,SkillScore
+1001,Rohan Patel,22.0,Male,DevOps,Ahmedabad,1,800000.0,155000,4.4,77.0,1,2017-05-03,Yes,Office,PhD,86
+1002,Aditya Sharma,40.0,Male,Web,Mumbai,6,460000.0,65000,3.5,83.0,12,2025-07-25,No,Office,BCA,62
+1003,Priya Khan,39.0,Female,Data Science,Bangalore,2,1410000.0,80000,3.7,86.0,4,2017-07-07,No,Hybrid,MCA,100
+1004,Yash Gupta,27.0,Female,DevOps,Bangalore,7,1130000.0,70000,4.4,95.0,11,2018-11-01,Yes,Remote,B.Tech,80
+1005,Vikram Patel,24.0,Female,DevOps,Bhopal,4,1250000.0,165000,4.1,95.0,19,2019-12-21,No,Hybrid,M.Tech,68
+1006,Yash Verma,24.0,Female,DevOps,Delhi,12,840000.0,140000,4.6,77.0,4,2023-09-07,No,Office,BCA,67
+1007,Isha Khan,27.0,Male,AI,Indore,3,,75000,4.5,99.0,6,2024-01-06,Yes,Office,BCA,91
+1008,Rohan Khan,,Male,AI,Chennai,15,1230000.0,45000,3.6,77.0,18,2026-02-25,Yes,Hybrid,PhD,98
+1009,Priya Sharma,28.0,Female,Data Science,Ahmedabad,3,1470000.0,160000,4.4,91.0,18,2019-10-13,Yes,Office,M.Tech,60
+1010,Vikram Jain,23.0,Female,AI,Chennai,6,530000.0,175000,3.3,96.0,14,2023-01-18,Yes,Remote,B.Tech,87
+1011,Karan Patel,35.0,Female,AI,Bhopal,3,580000.0,125000,5.0,87.0,6,2019-10-16,No,Hybrid,M.Tech,64
+1012,Karan Khan,39.0,Female,Data Science,Pune,15,480000.0,150000,4.9,80.0,13,2022-05-26,Yes,Hybrid,BCA,89
+1013,Dev Gupta,39.0,Male,Data Science,Jaipur,1,1200000.0,120000,3.3,76.0,3,2017-07-25,Yes,Remote,PhD,64
+1014,Karan Jain,29.0,Female,AI,Hyderabad,10,1080000.0,185000,3.3,96.0,13,2019-12-05,Yes,Office,BCA,89
+1015,Isha Patel,24.0,Female,DevOps,Hyderabad,7,700000.0,40000,3.6,86.0,20,2021-02-22,Yes,Office,PhD,79
+1016,Rahul Verma,25.0,Female,ML,Delhi,6,720000.0,125000,3.5,81.0,3,2024-09-16,No,Hybrid,B.Tech,60
+1017,Diya Khan,26.0,Female,DevOps,Jaipur,4,1580000.0,40000,4.0,,5,2023-02-13,No,Remote,B.Tech,79
+1018,Sneha Gupta,23.0,Male,AI,Indore,7,1080000.0,65000,3.8,88.0,14,2018-10-28,Yes,Hybrid,M.Tech,66
+1019,Aditya Singh,23.0,Male,ML,Indore,6,1620000.0,25000,4.7,82.0,17,2021-06-21,No,Office,PhD,81
+1020,Harsh Sharma,25.0,Female,DevOps,Bangalore,13,1120000.0,120000,4.3,100.0,9,2023-10-20,Yes,Office,MCA,60
+1021,Isha Jain,39.0,Female,ML,Bhopal,9,620000.0,55000,4.9,96.0,10,2022-09-09,Yes,Remote,MCA,84
+1022,Yash Jain,27.0,Male,DevOps,Chennai,14,450000.0,120000,3.6,94.0,6,2021-12-15,Yes,Hybrid,PhD,100
+1023,Dev Patel,24.0,Female,Web,Bhopal,14,1020000.0,40000,3.5,90.0,8,2021-08-25,Yes,Office,B.Tech,66
+1024,Yash Jain,29.0,Female,Web,Ahmedabad,4,1770000.0,165000,4.2,78.0,17,2025-12-27,No,Office,MCA,70
+1025,Rohan Jain,37.0,Female,AI,Hyderabad,8,1080000.0,95000,3.7,90.0,11,2021-12-07,No,Office,B.Tech,68
+1026,Dev Jain,34.0,Male,DevOps,Bhopal,13,610000.0,85000,3.8,76.0,16,2021-05-15,Yes,Hybrid,BCA,84
+1027,Vikram Verma,35.0,Male,Web,Ahmedabad,5,1140000.0,145000,3.3,96.0,19,2022-03-30,Yes,Remote,MCA,68
+1028,Rohan Gupta,27.0,Male,DevOps,Delhi,13,1280000.0,105000,3.8,87.0,12,2019-10-31,Yes,Office,B.Tech,62
+1029,Kavya Patel,29.0,Male,AI,Hyderabad,8,840000.0,165000,4.1,81.0,4,2025-08-08,Yes,Hybrid,PhD,84
+1030,Ritika Gupta,28.0,Female,Data Science,Jaipur,1,1070000.0,55000,4.6,94.0,11,2020-11-23,Yes,Hybrid,MCA,66
+1031,Meera Khan,33.0,Female,ML,Bangalore,15,1560000.0,190000,4.1,94.0,3,2022-03-20,No,Hybrid,M.Tech,89
+1032,Aisha Jain,34.0,Female,DevOps,Delhi,10,,100000,3.5,100.0,17,2020-02-20,Yes,Remote,M.Tech,86
+1033,Dev Singh,29.0,Female,DevOps,Jaipur,9,1700000.0,95000,3.2,87.0,12,2024-06-12,No,Office,PhD,81
+1034,Nisha Singh,36.0,Female,Data Science,Bangalore,6,1040000.0,75000,3.5,92.0,10,2019-06-06,Yes,Hybrid,M.Tech,79
+1035,Dev Singh,,Female,Web,Chennai,3,580000.0,175000,4.5,99.0,11,2017-02-20,Yes,Remote,BCA,90
+1036,Meera Verma,24.0,Male,DevOps,Bhopal,3,580000.0,95000,4.7,77.0,15,2023-04-05,No,Hybrid,PhD,87
+1037,Aarav Gupta,23.0,Female,DevOps,Chennai,2,980000.0,75000,3.7,82.0,10,2018-10-04,Yes,Remote,BCA,78
+1038,Priya Jain,36.0,Male,ML,Pune,3,1120000.0,155000,4.3,81.0,3,2023-02-09,Yes,Remote,BCA,98
+1039,Rohan Verma,40.0,Male,Web,Indore,15,1640000.0,190000,4.5,91.0,20,2021-11-29,No,Remote,B.Tech,74
+1040,Dev Gupta,40.0,Female,Data Science,Chennai,8,1130000.0,160000,4.6,91.0,12,2019-01-14,No,Hybrid,BCA,66
+1041,Rahul Singh,32.0,Male,Web,Jaipur,2,1180000.0,165000,3.9,76.0,1,2020-07-12,No,Hybrid,B.Tech,72
+1042,Aisha Khan,37.0,Male,AI,Hyderabad,3,970000.0,175000,3.4,97.0,18,2017-04-29,Yes,Office,MCA,65
+1043,Priya Gupta,25.0,Male,Web,Bangalore,15,840000.0,150000,4.5,83.0,20,2022-04-19,Yes,Remote,BCA,86
+1044,Ritika Gupta,38.0,Female,ML,Jaipur,4,1170000.0,175000,4.7,96.0,18,2022-01-04,No,Hybrid,BCA,72
+1045,Vikram Gupta,29.0,Male,AI,Jaipur,12,1500000.0,140000,4.5,100.0,19,2024-06-11,No,Remote,MCA,66
+1046,Arjun Jain,36.0,Male,ML,Jaipur,10,1490000.0,100000,4.9,100.0,13,2023-12-28,No,Office,MCA,94
+1047,Isha Sharma,24.0,Male,ML,Delhi,14,1180000.0,50000,4.5,78.0,10,2018-11-13,No,Hybrid,MCA,69
+1048,Rahul Gupta,35.0,Female,Data Science,Chennai,7,650000.0,65000,3.9,90.0,10,2022-03-04,Yes,Remote,MCA,82
+1049,Dev Singh,31.0,Female,ML,Delhi,7,1610000.0,50000,3.6,90.0,13,2021-04-12,No,Remote,PhD,63
+1050,Ananya Jain,37.0,Male,ML,Chennai,4,1030000.0,100000,3.8,94.0,2,2024-01-18,No,Office,M.Tech,65
+1051,Nisha Khan,32.0,Female,ML,Mumbai,5,780000.0,105000,4.8,91.0,15,2019-11-19,Yes,Remote,M.Tech,85
+1052,Arjun Khan,39.0,Female,Data Science,Bangalore,8,1460000.0,135000,,89.0,16,2023-07-23,Yes,Office,PhD,80
+1053,Nisha Sharma,29.0,Male,AI,Jaipur,1,1630000.0,30000,3.7,79.0,5,2020-05-31,No,Hybrid,BCA,94
+1054,Yash Patel,26.0,Female,Data Science,Indore,6,1700000.0,135000,4.9,97.0,18,2021-12-22,No,Remote,MCA,77
+1055,Dev Patel,25.0,Male,DevOps,Bangalore,7,990000.0,125000,4.3,,19,2018-05-31,Yes,Remote,BCA,69
+1056,Kavya Khan,22.0,Male,DevOps,Indore,4,820000.0,25000,4.2,78.0,1,2017-03-02,Yes,Hybrid,B.Tech,68
+1057,Diya Jain,38.0,Female,Web,Delhi,7,1660000.0,180000,3.9,89.0,2,2023-11-25,No,Hybrid,MCA,66
+1058,Aisha Verma,36.0,Female,Web,Jaipur,10,1270000.0,195000,3.3,95.0,20,2021-04-10,No,Remote,B.Tech,95
+1059,Aditya Jain,28.0,Female,ML,Pune,10,1030000.0,50000,4.7,98.0,16,2021-10-15,Yes,Remote,B.Tech,65
+1060,Aisha Singh,33.0,Female,Data Science,Ahmedabad,1,1290000.0,155000,3.9,99.0,17,2020-03-24,Yes,Remote,MCA,74
+1061,Rahul Sharma,33.0,Male,ML,Hyderabad,0,1160000.0,195000,4.7,99.0,11,2023-10-31,No,Remote,M.Tech,69
+1062,Isha Jain,34.0,Female,DevOps,Ahmedabad,5,520000.0,125000,4.2,89.0,3,2021-02-24,Yes,Remote,M.Tech,99
+1063,Meera Sharma,24.0,Female,DevOps,Chennai,3,1530000.0,180000,4.0,99.0,17,2020-11-14,No,Remote,M.Tech,85
+1064,Meera Patel,23.0,Male,Web,Jaipur,15,990000.0,20000,4.6,78.0,8,2025-05-18,No,Remote,MCA,62
+1065,Sneha Khan,36.0,Female,ML,Mumbai,0,1540000.0,145000,4.5,78.0,14,2020-08-23,Yes,Remote,MCA,97
+1066,Kavya Singh,24.0,Male,AI,Mumbai,6,1310000.0,55000,4.6,95.0,5,2025-09-15,No,Remote,M.Tech,98
+1067,Yash Sharma,24.0,Female,Web,Hyderabad,10,1710000.0,120000,4.2,96.0,9,2018-09-11,Yes,Hybrid,PhD,64
+1068,Dev Verma,36.0,Male,Web,Ahmedabad,12,1180000.0,180000,4.8,94.0,7,2022-03-11,No,Office,MCA,92
+1069,Harsh Verma,23.0,Male,ML,Indore,14,1320000.0,95000,3.4,76.0,10,2021-12-05,No,Hybrid,BCA,98
+1070,Dev Jain,32.0,Male,ML,Hyderabad,10,1430000.0,65000,4.5,94.0,13,2017-11-30,Yes,Office,B.Tech,79
+1071,Karan Singh,32.0,Female,AI,Bangalore,9,1790000.0,135000,4.4,75.0,5,2019-01-09,Yes,Remote,BCA,66
+1072,Meera Singh,39.0,Male,Web,Ahmedabad,14,780000.0,70000,3.5,97.0,10,2017-06-28,No,Remote,PhD,75
+1073,Karan Khan,37.0,Male,ML,Delhi,5,1570000.0,150000,3.7,91.0,16,2026-02-28,No,Office,B.Tech,93
+1074,Aarav Gupta,31.0,Male,Web,Jaipur,14,1140000.0,90000,4.1,77.0,12,2020-12-02,Yes,Hybrid,B.Tech,83
+1075,Aisha Sharma,32.0,Male,Data Science,Hyderabad,15,1300000.0,60000,3.4,90.0,7,2022-01-12,Yes,Office,PhD,93
+1076,Ritika Sharma,31.0,Male,AI,Hyderabad,15,570000.0,55000,4.4,77.0,14,2023-09-11,Yes,Office,BCA,75
+1077,Nisha Sharma,27.0,Female,ML,Hyderabad,0,1370000.0,195000,4.1,91.0,1,2021-05-19,No,Remote,BCA,75
+1078,Sneha Khan,25.0,Male,Data Science,Chennai,15,1350000.0,165000,4.7,99.0,2,2024-02-01,No,Remote,B.Tech,72
+1079,Ananya Khan,32.0,Female,Web,Bhopal,10,1660000.0,35000,4.6,86.0,15,2020-01-25,No,Hybrid,M.Tech,91
+1080,Rohan Singh,33.0,Female,ML,Chennai,10,1530000.0,110000,4.3,92.0,20,2018-02-25,No,Remote,MCA,82
+1081,Aisha Jain,33.0,Female,Data Science,Pune,0,590000.0,70000,4.3,100.0,3,2018-08-08,Yes,Office,BCA,83
+1082,Aditya Jain,40.0,Female,AI,Mumbai,11,1600000.0,60000,3.9,93.0,1,2021-06-19,Yes,Hybrid,PhD,84
+1083,Rohan Gupta,25.0,Male,Web,Mumbai,3,1590000.0,80000,4.3,90.0,11,2018-07-10,No,Office,B.Tech,95
+1084,Nisha Sharma,31.0,Female,DevOps,Ahmedabad,7,890000.0,60000,4.1,81.0,12,2025-11-12,No,Office,M.Tech,99
+1085,Rohan Gupta,24.0,Female,DevOps,Indore,10,1670000.0,60000,4.6,77.0,5,2024-03-16,Yes,Remote,MCA,92
+1086,Rahul Patel,23.0,Female,AI,Hyderabad,9,1220000.0,185000,3.8,86.0,20,2017-11-20,Yes,Office,M.Tech,97
+1087,Dev Singh,26.0,Male,DevOps,Bhopal,1,1310000.0,45000,4.2,75.0,20,2024-03-12,Yes,Hybrid,PhD,78
+1088,Karan Singh,31.0,Male,ML,Indore,15,1480000.0,150000,3.3,89.0,12,2022-03-18,No,Remote,BCA,92
+1089,Aditya Verma,32.0,Female,AI,Pune,7,1130000.0,150000,3.5,87.0,16,2018-10-17,No,Hybrid,BCA,91
+1090,Aarav Khan,,Male,Web,Pune,9,1060000.0,170000,3.8,90.0,9,2023-01-08,No,Hybrid,BCA,62
+1091,Arjun Singh,40.0,Female,DevOps,Indore,4,1180000.0,55000,4.1,83.0,5,2018-02-01,Yes,Office,PhD,85
+1092,Aditya Patel,23.0,Female,DevOps,Hyderabad,10,1300000.0,60000,4.1,91.0,19,2023-11-17,No,Office,PhD,94
+1093,Nisha Singh,40.0,Male,Data Science,Ahmedabad,0,490000.0,115000,4.4,93.0,16,2023-09-11,Yes,Office,PhD,84
+1094,Aisha Gupta,29.0,Male,AI,Jaipur,13,730000.0,85000,4.0,88.0,7,2022-08-18,No,Office,MCA,93
+1095,Priya Singh,27.0,Female,AI,Hyderabad,15,1320000.0,100000,4.4,96.0,10,2019-02-27,Yes,Office,MCA,80
+1096,Isha Jain,39.0,Male,ML,Chennai,9,1420000.0,65000,3.9,99.0,9,2017-06-22,No,Remote,M.Tech,94
+1097,Meera Singh,39.0,Female,Data Science,Pune,1,1060000.0,90000,4.4,95.0,1,2018-02-15,Yes,Hybrid,MCA,90
+1098,Sneha Sharma,31.0,Female,Web,Pune,5,600000.0,30000,3.4,92.0,10,2021-09-08,Yes,Remote,BCA,96
+1099,Ananya Singh,32.0,Male,Web,Hyderabad,6,1790000.0,105000,4.9,89.0,6,2026-01-26,Yes,Office,BCA,78
+1100,Nisha Singh,28.0,Male,Data Science,Hyderabad,5,1480000.0,50000,4.1,96.0,13,2018-07-30,Yes,Hybrid,BCA,81
+1101,Harsh Jain,40.0,Female,Data Science,Hyderabad,12,1370000.0,70000,3.3,84.0,12,2024-09-11,Yes,Remote,M.Tech,90
+1102,Yash Verma,33.0,Female,Data Science,Ahmedabad,2,1650000.0,95000,4.6,99.0,4,2022-11-23,Yes,Office,PhD,72
+1103,Diya Gupta,26.0,Male,DevOps,Bhopal,14,1780000.0,45000,4.4,90.0,15,2026-01-26,Yes,Office,MCA,79
+1104,Nisha Sharma,34.0,Female,Web,Pune,1,1000000.0,190000,3.3,77.0,5,2017-10-10,No,Hybrid,MCA,88
+1105,Priya Khan,34.0,Male,Data Science,Hyderabad,4,790000.0,145000,3.8,92.0,15,2025-03-01,No,Office,MCA,74
+1106,Ananya Verma,33.0,Male,Web,Ahmedabad,6,730000.0,95000,4.4,75.0,2,2017-10-03,Yes,Office,B.Tech,85
+1107,Isha Patel,39.0,Male,Web,Hyderabad,10,590000.0,120000,5.0,98.0,9,2019-08-29,Yes,Office,PhD,71
+1108,Isha Gupta,35.0,Male,DevOps,Chennai,13,1330000.0,150000,4.4,85.0,8,2018-09-04,Yes,Hybrid,M.Tech,89
+1109,Ritika Jain,39.0,Male,Data Science,Hyderabad,11,790000.0,160000,3.7,77.0,13,2018-01-14,Yes,Remote,M.Tech,97
+1110,Aisha Jain,39.0,Male,Web,Bangalore,15,1300000.0,55000,4.8,81.0,18,2019-09-21,No,Hybrid,MCA,89
+1111,Kavya Singh,33.0,Female,Data Science,Ahmedabad,10,1760000.0,170000,4.0,98.0,8,2019-04-13,Yes,Remote,BCA,95
+1112,Nisha Jain,40.0,Female,Web,Pune,10,950000.0,195000,3.9,90.0,12,2019-11-21,Yes,Remote,PhD,91
+1113,Vikram Sharma,39.0,Male,DevOps,Chennai,7,640000.0,60000,4.4,88.0,12,2017-10-06,Yes,Office,PhD,90
+1114,Harsh Khan,22.0,Female,AI,Mumbai,9,1500000.0,190000,,83.0,4,2017-03-12,Yes,Remote,M.Tech,99
+1115,Rohan Jain,33.0,Male,Data Science,Bhopal,9,650000.0,90000,3.9,97.0,13,2024-09-02,No,Office,MCA,63
+1116,Karan Khan,27.0,Female,ML,Delhi,1,1560000.0,185000,3.8,78.0,3,2019-07-31,No,Office,PhD,62
+1117,Priya Verma,32.0,Female,DevOps,Indore,5,810000.0,115000,4.5,77.0,13,2023-04-29,Yes,Office,B.Tech,92
+1118,Rahul Khan,33.0,Female,Web,Bangalore,10,1040000.0,145000,3.8,94.0,12,2017-05-02,No,Hybrid,M.Tech,97
+1119,Kavya Sharma,24.0,Male,Data Science,Hyderabad,12,630000.0,65000,3.5,95.0,15,2020-07-21,No,Hybrid,B.Tech,68
+1120,Isha Gupta,35.0,Female,Data Science,Jaipur,12,1760000.0,120000,3.2,77.0,8,2017-02-20,Yes,Office,MCA,70
+1121,Priya Jain,31.0,Female,DevOps,Ahmedabad,11,610000.0,40000,3.7,100.0,7,2019-10-28,No,Remote,M.Tech,79
+1122,Aisha Jain,,Male,Web,Indore,9,1420000.0,60000,3.8,95.0,6,2020-08-06,No,Hybrid,BCA,100
+1123,Ritika Sharma,40.0,Female,AI,Chennai,5,1160000.0,80000,3.9,93.0,10,2024-08-24,Yes,Hybrid,MCA,68
+1124,Diya Khan,29.0,Female,DevOps,Ahmedabad,13,1530000.0,145000,3.3,90.0,3,2023-02-05,Yes,Remote,BCA,70
+1125,Harsh Verma,23.0,Male,Web,Indore,7,1290000.0,100000,4.0,,13,2022-09-23,No,Office,PhD,92
+1126,Aditya Gupta,22.0,Male,DevOps,Chennai,11,1510000.0,65000,3.4,98.0,12,2020-07-01,No,Remote,MCA,88
+1127,Sneha Verma,31.0,Male,ML,Jaipur,7,740000.0,70000,,78.0,14,2022-10-15,No,Remote,MCA,100
+1128,Rahul Khan,35.0,Male,DevOps,Mumbai,6,,20000,3.6,87.0,18,2019-04-23,Yes,Hybrid,BCA,72
+1129,Sneha Khan,30.0,Female,DevOps,Ahmedabad,14,1250000.0,130000,4.3,86.0,3,2023-12-04,Yes,Hybrid,B.Tech,75
+1130,Ritika Jain,27.0,Male,DevOps,Pune,15,1750000.0,75000,4.3,88.0,16,2024-02-17,No,Remote,M.Tech,80
+1131,Nisha Gupta,23.0,Female,Web,Pune,13,1690000.0,175000,4.7,91.0,3,2024-09-05,Yes,Remote,BCA,62
+1132,Ritika Khan,39.0,Female,DevOps,Delhi,3,1620000.0,55000,4.6,91.0,15,2020-01-03,Yes,Hybrid,B.Tech,75
+1133,Aisha Jain,23.0,Female,AI,Ahmedabad,11,670000.0,85000,5.0,82.0,5,2024-12-21,Yes,Remote,B.Tech,96
+1134,Meera Sharma,30.0,Female,AI,Pune,4,1190000.0,50000,3.7,96.0,8,2025-05-31,Yes,Office,BCA,75
+1135,Rahul Jain,34.0,Female,Web,Chennai,12,1130000.0,45000,3.9,100.0,11,2022-10-13,Yes,Office,B.Tech,89
+1136,Ritika Verma,33.0,Male,DevOps,Chennai,9,1460000.0,120000,4.0,83.0,11,2020-10-15,Yes,Remote,B.Tech,100
+1137,Rahul Sharma,36.0,Female,ML,Mumbai,9,850000.0,60000,3.2,81.0,12,2018-10-14,Yes,Remote,MCA,100
+1138,Aarav Jain,29.0,Female,Data Science,Bhopal,14,690000.0,90000,,79.0,5,2017-02-08,No,Remote,M.Tech,84
+1139,Dev Sharma,25.0,Male,Web,Indore,2,1210000.0,65000,4.6,79.0,7,2022-12-13,Yes,Hybrid,PhD,88
+1140,Rohan Patel,24.0,Female,Data Science,Hyderabad,7,760000.0,60000,3.9,85.0,7,2020-02-09,Yes,Office,MCA,78
+1141,Arjun Khan,29.0,Female,ML,Jaipur,10,1060000.0,135000,4.3,75.0,6,2018-06-25,No,Remote,B.Tech,97
+1142,Arjun Sharma,30.0,Male,ML,Mumbai,13,600000.0,180000,3.9,97.0,10,2021-10-01,Yes,Office,M.Tech,69
+1143,Aisha Verma,34.0,Male,ML,Pune,3,1560000.0,155000,4.7,77.0,4,2022-02-01,Yes,Office,M.Tech,60
+1144,Meera Singh,33.0,Male,ML,Ahmedabad,10,770000.0,25000,4.8,78.0,3,2026-01-19,No,Hybrid,PhD,83
+1145,Aarav Patel,40.0,Male,Web,Indore,0,1100000.0,90000,4.8,78.0,13,2017-06-30,Yes,Remote,B.Tech,95
+1146,Diya Patel,35.0,Male,DevOps,Delhi,3,1510000.0,135000,3.8,93.0,13,2022-08-19,Yes,Hybrid,BCA,79
+1147,Dev Gupta,39.0,Male,DevOps,Bangalore,14,,95000,4.2,94.0,5,2021-02-17,Yes,Hybrid,B.Tech,74
+1148,Nisha Sharma,22.0,Male,ML,Mumbai,7,,85000,4.7,78.0,2,2021-09-16,Yes,Office,MCA,83
+1149,Aditya Khan,24.0,Female,ML,Indore,9,1450000.0,95000,4.2,79.0,15,2019-12-06,No,Remote,B.Tech,72
+1150,Yash Singh,40.0,Male,Data Science,Pune,14,870000.0,85000,3.8,86.0,10,2020-06-16,Yes,Remote,BCA,69
+1151,Ritika Patel,29.0,Male,Web,Mumbai,14,570000.0,145000,3.7,75.0,5,2023-03-28,Yes,Remote,B.Tech,74
+1152,Yash Khan,34.0,Male,Data Science,Indore,6,660000.0,40000,3.7,75.0,4,2024-03-30,Yes,Hybrid,B.Tech,70
+1153,Vikram Sharma,35.0,Male,ML,Chennai,8,1420000.0,105000,3.5,80.0,14,2022-01-01,No,Remote,B.Tech,77
+1154,Ritika Khan,35.0,Female,ML,Ahmedabad,11,1790000.0,140000,5.0,75.0,17,2022-05-19,No,Hybrid,BCA,71
+1155,Dev Patel,,Male,Data Science,Bangalore,11,,185000,3.7,90.0,8,2025-08-07,No,Office,B.Tech,74
+1156,Kavya Verma,34.0,Male,DevOps,Bangalore,0,890000.0,130000,4.3,97.0,16,2024-11-21,No,Remote,MCA,62
+1157,Sneha Khan,29.0,Female,Data Science,Delhi,10,,60000,3.8,100.0,5,2025-01-15,Yes,Remote,PhD,83
+1158,Ritika Jain,33.0,Female,AI,Ahmedabad,10,1310000.0,175000,3.4,88.0,6,2018-12-15,No,Hybrid,BCA,68
+1159,Vikram Singh,22.0,Male,AI,Indore,3,530000.0,90000,3.8,94.0,11,2022-07-26,Yes,Office,B.Tech,100
+1160,Arjun Gupta,32.0,Female,AI,Bhopal,0,,50000,4.4,100.0,16,2017-07-17,No,Hybrid,PhD,84
+1161,Aditya Patel,37.0,Female,AI,Mumbai,3,630000.0,100000,3.3,,18,2017-10-31,Yes,Hybrid,PhD,99
+1162,Ritika Jain,22.0,Female,ML,Hyderabad,6,870000.0,85000,4.0,85.0,8,2021-08-04,Yes,Remote,MCA,96
+1163,Aarav Patel,37.0,Male,ML,Mumbai,6,450000.0,170000,3.7,94.0,16,2018-02-02,Yes,Hybrid,MCA,90
+1164,Yash Singh,30.0,Male,ML,Ahmedabad,8,1440000.0,30000,4.8,89.0,2,2021-12-07,Yes,Office,B.Tech,65
+1165,Priya Gupta,39.0,Female,Data Science,Bhopal,15,1030000.0,190000,4.7,88.0,2,2023-06-04,Yes,Remote,MCA,71
+1166,Rohan Sharma,27.0,Female,DevOps,Bhopal,8,770000.0,65000,3.3,81.0,18,2020-08-02,No,Hybrid,PhD,89
+1167,Isha Khan,22.0,Female,Web,Hyderabad,3,830000.0,50000,4.3,78.0,13,2025-10-24,No,Office,PhD,90
+1168,Kavya Sharma,30.0,Female,ML,Hyderabad,15,1470000.0,35000,4.8,82.0,9,2020-01-06,No,Office,B.Tech,74
+1169,Diya Verma,36.0,Male,Data Science,Hyderabad,11,1510000.0,175000,3.4,88.0,17,2026-03-17,No,Remote,PhD,96
+1170,Yash Verma,,Female,Data Science,Delhi,8,960000.0,80000,3.6,86.0,8,2021-02-17,No,Hybrid,PhD,88
+1171,Karan Khan,37.0,Male,AI,Bangalore,5,1110000.0,35000,4.4,87.0,9,2023-06-02,No,Office,B.Tech,60
+1172,Kavya Gupta,26.0,Female,AI,Chennai,13,470000.0,105000,4.3,97.0,10,2021-03-23,No,Office,B.Tech,60
+1173,Isha Patel,33.0,Male,DevOps,Bangalore,8,720000.0,105000,3.8,85.0,2,2024-05-11,No,Office,BCA,68
+1174,Priya Jain,37.0,Female,ML,Jaipur,10,1520000.0,80000,4.5,93.0,10,2025-02-23,Yes,Office,PhD,71
+1175,Isha Gupta,37.0,Female,ML,Hyderabad,7,910000.0,130000,4.8,82.0,19,2025-05-07,No,Hybrid,B.Tech,90
+1176,Vikram Patel,40.0,Female,Web,Ahmedabad,1,940000.0,150000,4.8,84.0,15,2018-09-10,Yes,Hybrid,M.Tech,65
+1177,Rohan Patel,27.0,Female,Web,Bhopal,15,460000.0,70000,3.6,93.0,14,2025-10-22,No,Hybrid,B.Tech,62
+1178,Kavya Singh,33.0,Male,Data Science,Bhopal,7,930000.0,95000,,,17,2024-10-11,No,Remote,B.Tech,62
+1179,Karan Patel,31.0,Female,Data Science,Bangalore,11,1790000.0,175000,4.8,85.0,8,2025-05-31,Yes,Remote,B.Tech,97
+1180,Ananya Jain,25.0,Male,Data Science,Mumbai,1,540000.0,35000,4.4,94.0,14,2024-06-04,No,Hybrid,B.Tech,95
+1181,Harsh Jain,26.0,Male,ML,Mumbai,13,470000.0,60000,4.4,83.0,4,2018-03-06,No,Remote,PhD,72
+1182,Aarav Sharma,38.0,Male,Data Science,Ahmedabad,10,1490000.0,170000,3.3,81.0,16,2019-08-19,Yes,Remote,PhD,64
+1183,Kavya Khan,25.0,Female,Web,Mumbai,1,1610000.0,75000,3.7,78.0,4,2020-04-05,Yes,Remote,M.Tech,70
+1184,Nisha Khan,36.0,Female,AI,Mumbai,8,680000.0,165000,3.8,87.0,5,2021-04-29,Yes,Remote,B.Tech,86
+1185,Ananya Gupta,37.0,Female,Data Science,Mumbai,15,1420000.0,60000,4.3,98.0,9,2022-06-23,No,Remote,PhD,96
+1186,Ritika Verma,29.0,Male,Data Science,Pune,4,690000.0,140000,4.5,96.0,17,2026-04-09,No,Hybrid,M.Tech,64
+1187,Yash Khan,32.0,Female,Data Science,Chennai,2,1160000.0,95000,3.6,87.0,15,2022-02-24,No,Remote,MCA,61
+1188,Yash Singh,35.0,Female,Data Science,Bangalore,6,450000.0,115000,4.6,95.0,15,2024-05-05,No,Office,PhD,98
+1189,Ananya Sharma,33.0,Male,Web,Pune,11,1010000.0,110000,,95.0,14,2024-11-15,Yes,Hybrid,PhD,72
+1190,Dev Verma,34.0,Male,Web,Delhi,14,930000.0,55000,3.4,95.0,17,2022-02-17,Yes,Office,MCA,97
+1191,Aisha Jain,38.0,Male,ML,Bhopal,12,890000.0,120000,3.4,94.0,11,2021-09-11,No,Hybrid,M.Tech,68
+1192,Kavya Jain,38.0,Male,AI,Jaipur,9,1250000.0,85000,4.9,81.0,18,2024-09-13,No,Office,B.Tech,82
+1193,Vikram Sharma,40.0,Male,AI,Hyderabad,0,1180000.0,50000,4.0,,6,2021-04-10,No,Office,BCA,69
+1194,Ritika Gupta,31.0,Male,DevOps,Hyderabad,7,530000.0,195000,4.0,96.0,2,2025-04-29,No,Hybrid,MCA,80
+1195,Karan Singh,23.0,Female,AI,Mumbai,6,960000.0,135000,4.6,82.0,6,2025-09-15,Yes,Office,PhD,67
+1196,Vikram Singh,35.0,Male,DevOps,Hyderabad,4,780000.0,165000,4.7,,16,2017-06-13,No,Remote,BCA,93
+1197,Kavya Singh,27.0,Male,DevOps,Jaipur,10,850000.0,85000,4.2,82.0,16,2020-09-18,Yes,Remote,BCA,88
+1198,Harsh Khan,29.0,Female,DevOps,Jaipur,9,1270000.0,190000,4.6,83.0,15,2017-04-12,No,Remote,BCA,72
+1199,Ritika Khan,24.0,Female,Data Science,Pune,3,460000.0,155000,3.6,81.0,1,2019-04-23,No,Office,BCA,62
+1200,Aditya Sharma,23.0,Female,Data Science,Jaipur,12,630000.0,160000,3.6,87.0,1,2021-11-09,Yes,Office,PhD,62
+1201,Aarav Gupta,24.0,Male,DevOps,Bangalore,12,720000.0,160000,4.4,84.0,5,2021-06-07,No,Office,BCA,100
+1202,Karan Jain,33.0,Female,AI,Bhopal,2,810000.0,195000,3.2,92.0,17,2020-06-02,Yes,Remote,M.Tech,74
+1203,Rohan Singh,30.0,Male,AI,Ahmedabad,2,580000.0,195000,4.9,89.0,16,2020-04-05,No,Hybrid,M.Tech,75
+1204,Sneha Sharma,24.0,Female,AI,Bangalore,10,1600000.0,135000,4.4,79.0,14,2021-10-21,No,Hybrid,M.Tech,81
+1205,Karan Singh,36.0,Male,Data Science,Delhi,4,1230000.0,105000,3.4,77.0,17,2023-01-16,Yes,Office,PhD,85
+1206,Harsh Verma,28.0,Male,Web,Indore,4,1650000.0,110000,3.5,99.0,17,2022-03-19,Yes,Office,M.Tech,99
+1207,Priya Khan,38.0,Female,AI,Mumbai,11,900000.0,170000,4.2,79.0,9,2017-06-15,No,Remote,B.Tech,73
+1208,Rahul Verma,33.0,Male,Web,Bhopal,8,1610000.0,185000,3.3,78.0,12,2025-04-27,Yes,Office,BCA,84
+1209,Priya Sharma,29.0,Female,AI,Pune,14,1330000.0,60000,4.1,91.0,6,2018-11-10,Yes,Hybrid,PhD,67
+1210,Diya Patel,35.0,Male,AI,Jaipur,0,1680000.0,150000,4.1,95.0,2,2019-09-26,Yes,Remote,M.Tech,76
+1211,Nisha Khan,38.0,Female,AI,Bangalore,14,490000.0,85000,4.5,77.0,14,2023-10-21,Yes,Office,M.Tech,99
+1212,Aarav Patel,30.0,Female,AI,Ahmedabad,4,1320000.0,140000,4.3,87.0,4,2018-03-21,Yes,Hybrid,PhD,98
+1213,Diya Jain,39.0,Female,AI,Chennai,13,780000.0,155000,4.2,,13,2021-02-26,No,Office,PhD,66
+1214,Harsh Sharma,30.0,Male,Web,Bangalore,0,660000.0,20000,4.8,81.0,11,2023-06-26,No,Hybrid,B.Tech,69
+1215,Ritika Gupta,40.0,Male,ML,Jaipur,13,1530000.0,85000,4.3,87.0,18,2023-03-12,No,Hybrid,BCA,96
+1216,Arjun Khan,34.0,Female,DevOps,Ahmedabad,6,750000.0,50000,4.0,80.0,2,2022-09-14,Yes,Hybrid,B.Tech,65
+1217,Aisha Sharma,37.0,Male,Web,Chennai,9,1120000.0,145000,3.3,87.0,1,2024-12-24,Yes,Office,PhD,78
+1218,Arjun Gupta,38.0,Male,DevOps,Delhi,12,540000.0,105000,4.4,77.0,3,2020-12-17,Yes,Office,BCA,95
+1219,Meera Verma,33.0,Male,DevOps,Mumbai,8,1150000.0,20000,4.9,87.0,17,2018-12-18,No,Hybrid,B.Tech,92
+1220,Aarav Gupta,39.0,Male,ML,Mumbai,14,1410000.0,165000,4.6,99.0,13,2023-08-01,Yes,Office,M.Tech,80
+1221,Aditya Singh,33.0,Male,DevOps,Hyderabad,5,1120000.0,40000,3.4,85.0,6,2022-05-06,Yes,Hybrid,M.Tech,75
+1222,Aarav Khan,30.0,Male,Web,Indore,15,1080000.0,45000,3.8,78.0,20,2023-11-20,No,Hybrid,PhD,77
+1223,Sneha Gupta,38.0,Male,DevOps,Chennai,11,770000.0,30000,4.6,92.0,11,2021-06-01,Yes,Remote,M.Tech,84
+1224,Nisha Gupta,32.0,Male,Web,Indore,11,1110000.0,125000,3.7,94.0,12,2019-01-24,No,Hybrid,MCA,71
+1225,Aarav Patel,40.0,Female,Web,Pune,4,1140000.0,65000,4.2,81.0,17,2022-04-22,No,Hybrid,BCA,76
+1226,Aditya Singh,40.0,Female,ML,Jaipur,14,860000.0,50000,4.7,95.0,18,2025-05-08,No,Hybrid,B.Tech,86
+1227,Aisha Singh,28.0,Female,AI,Pune,2,1170000.0,160000,4.4,98.0,11,2021-04-10,No,Office,PhD,96
+1228,Kavya Jain,24.0,Female,Web,Pune,8,1030000.0,145000,4.4,94.0,6,2021-12-28,Yes,Remote,M.Tech,76
+1229,Rohan Sharma,24.0,Female,DevOps,Pune,12,710000.0,25000,4.9,76.0,3,2022-11-17,No,Hybrid,M.Tech,75
+1230,Rahul Verma,36.0,Female,AI,Jaipur,14,880000.0,170000,,85.0,6,2023-01-24,No,Office,PhD,87
+1231,Isha Sharma,39.0,Male,DevOps,Pune,8,1680000.0,150000,4.6,86.0,12,2018-09-30,No,Hybrid,PhD,60
+1232,Ritika Gupta,37.0,Female,AI,Pune,6,1550000.0,135000,4.3,92.0,13,2021-08-14,No,Remote,BCA,65
+1233,Yash Singh,29.0,Female,AI,Indore,14,1130000.0,55000,4.7,84.0,1,2023-12-06,Yes,Remote,PhD,61
+1234,Isha Khan,25.0,Female,ML,Chennai,10,1570000.0,85000,3.6,90.0,2,2021-09-18,No,Remote,M.Tech,63
+1235,Yash Patel,34.0,Male,AI,Chennai,7,910000.0,55000,4.7,75.0,4,2021-04-26,Yes,Hybrid,MCA,79
+1236,Priya Jain,27.0,Female,ML,Delhi,6,1780000.0,35000,4.1,86.0,6,2018-04-08,No,Office,B.Tech,85
+1237,Aisha Singh,22.0,Male,Data Science,Indore,15,1660000.0,70000,3.5,82.0,5,2018-01-10,Yes,Remote,MCA,74
+1238,Nisha Jain,39.0,Female,DevOps,Hyderabad,8,1570000.0,60000,3.2,98.0,18,2017-06-11,No,Remote,PhD,71
+1239,Aarav Khan,32.0,Female,AI,Delhi,11,860000.0,190000,3.5,83.0,20,2022-02-03,No,Office,M.Tech,80
+1240,Harsh Jain,39.0,Male,Data Science,Pune,3,1720000.0,120000,3.5,88.0,6,2018-01-30,Yes,Remote,B.Tech,91
+1241,Nisha Khan,23.0,Male,Web,Delhi,0,1790000.0,40000,4.3,82.0,12,2019-05-05,No,Hybrid,B.Tech,99
+1242,Karan Verma,23.0,Male,DevOps,Pune,12,640000.0,90000,4.9,98.0,18,2019-02-16,No,Office,B.Tech,100
+1243,Aditya Verma,36.0,Female,ML,Bhopal,14,870000.0,70000,4.2,96.0,14,2020-12-14,No,Office,M.Tech,96
+1244,Aarav Singh,34.0,Male,AI,Indore,4,1600000.0,25000,3.9,84.0,1,2020-05-21,No,Office,PhD,95
+1245,Isha Sharma,40.0,Female,DevOps,Bangalore,7,1620000.0,95000,3.4,93.0,3,2019-11-16,No,Hybrid,M.Tech,91
+1246,Meera Gupta,40.0,Male,AI,Ahmedabad,10,1210000.0,35000,4.7,99.0,1,2020-11-26,No,Remote,BCA,93
+1247,Meera Singh,39.0,Female,AI,Pune,2,1010000.0,180000,4.4,89.0,11,2019-06-29,Yes,Hybrid,PhD,63
+1248,Dev Patel,30.0,Male,AI,Mumbai,15,1560000.0,80000,3.4,92.0,9,2021-06-08,No,Hybrid,PhD,65
+1249,Aisha Khan,35.0,Female,DevOps,Pune,5,930000.0,115000,4.3,,15,2020-12-03,Yes,Remote,M.Tech,83
+1250,Ananya Singh,24.0,Female,Web,Delhi,10,1070000.0,20000,4.9,84.0,11,2024-10-12,Yes,Office,PhD,73
+1251,Sneha Sharma,38.0,Female,AI,Ahmedabad,1,810000.0,185000,4.4,96.0,9,2019-11-13,Yes,Hybrid,B.Tech,64
+1252,Nisha Khan,30.0,Male,AI,Bangalore,3,490000.0,180000,4.8,87.0,17,2020-07-16,No,Office,B.Tech,62
+1253,Rahul Khan,38.0,Male,ML,Bhopal,7,1450000.0,115000,3.2,86.0,1,2022-08-16,No,Remote,M.Tech,81
+1254,Vikram Gupta,26.0,Female,DevOps,Indore,7,1780000.0,150000,4.3,82.0,15,2023-06-05,Yes,Remote,M.Tech,97
+1255,Rohan Verma,28.0,Male,AI,Indore,5,1790000.0,65000,4.0,99.0,5,2020-07-24,Yes,Hybrid,MCA,86
+1256,Priya Patel,30.0,Male,ML,Mumbai,7,720000.0,105000,3.2,94.0,16,2023-09-09,Yes,Office,PhD,90
+1257,Priya Jain,33.0,Male,AI,Mumbai,8,1700000.0,20000,3.5,88.0,6,2021-08-19,No,Office,MCA,80
+1258,Ananya Gupta,29.0,Female,Data Science,Bangalore,1,550000.0,190000,4.7,87.0,17,2022-11-03,No,Office,B.Tech,95
+1259,Diya Jain,23.0,Male,Web,Chennai,9,1460000.0,155000,4.6,80.0,3,2023-11-17,Yes,Remote,PhD,94
+1260,Sneha Jain,35.0,Male,Data Science,Mumbai,8,900000.0,45000,4.8,89.0,15,2020-08-20,No,Remote,PhD,84
+1261,Sneha Khan,38.0,Male,Web,Hyderabad,5,1420000.0,65000,3.5,96.0,10,2018-08-16,No,Hybrid,M.Tech,67
+1262,Nisha Patel,28.0,Male,DevOps,Chennai,0,1090000.0,190000,,90.0,15,2023-10-27,No,Hybrid,B.Tech,98
+1263,Dev Khan,29.0,Female,ML,Mumbai,1,980000.0,65000,3.5,76.0,2,2024-06-25,Yes,Hybrid,M.Tech,70
+1264,Meera Khan,40.0,Male,ML,Chennai,2,1370000.0,140000,3.4,86.0,5,2025-07-04,Yes,Office,BCA,81
+1265,Aisha Khan,38.0,Female,ML,Jaipur,9,590000.0,170000,4.5,77.0,19,2021-10-16,No,Remote,PhD,96
+1266,Ananya Jain,37.0,Male,DevOps,Bhopal,14,1040000.0,25000,5.0,,14,2024-01-06,Yes,Hybrid,BCA,95
+1267,Aditya Singh,28.0,Female,DevOps,Ahmedabad,0,1170000.0,120000,3.3,92.0,1,2018-04-12,Yes,Remote,BCA,81
+1268,Meera Jain,37.0,Male,DevOps,Hyderabad,14,790000.0,125000,4.3,92.0,19,2025-10-17,No,Office,PhD,61
+1269,Aisha Gupta,32.0,Male,DevOps,Mumbai,5,830000.0,190000,3.3,95.0,10,2023-05-28,No,Office,B.Tech,77
+1270,Yash Verma,37.0,Male,Web,Jaipur,6,1220000.0,30000,3.7,100.0,5,2018-01-15,Yes,Hybrid,MCA,93
+1271,Arjun Jain,32.0,Male,Data Science,Hyderabad,1,700000.0,85000,4.9,79.0,2,2022-02-25,Yes,Hybrid,MCA,62
+1272,Yash Jain,31.0,Male,ML,Pune,10,1240000.0,105000,3.6,84.0,6,2025-09-01,No,Remote,B.Tech,99
+1273,Isha Verma,25.0,Female,DevOps,Chennai,5,1260000.0,95000,4.9,93.0,2,2017-10-19,Yes,Remote,MCA,63
+1274,Aditya Khan,23.0,Male,DevOps,Mumbai,11,900000.0,160000,4.8,97.0,15,2020-07-03,Yes,Remote,MCA,66
+1275,Aditya Khan,36.0,Female,Web,Chennai,5,1020000.0,145000,4.8,86.0,1,2024-11-05,Yes,Hybrid,B.Tech,82
+1276,Isha Verma,27.0,Female,Web,Ahmedabad,2,770000.0,120000,3.9,78.0,14,2025-11-20,Yes,Office,M.Tech,95
+1277,Rohan Jain,37.0,Female,Data Science,Ahmedabad,7,980000.0,125000,4.3,88.0,20,2018-12-10,No,Hybrid,PhD,66
+1278,Diya Sharma,27.0,Male,AI,Ahmedabad,15,620000.0,120000,4.4,87.0,1,2024-03-26,Yes,Office,M.Tech,88
+1279,Aarav Verma,34.0,Female,AI,Hyderabad,2,1260000.0,130000,4.6,88.0,2,2023-07-15,No,Office,B.Tech,60
+1280,Meera Verma,33.0,Male,AI,Chennai,12,520000.0,140000,4.5,85.0,5,2021-04-12,Yes,Office,MCA,83
+1281,Rohan Patel,26.0,Female,Web,Ahmedabad,13,770000.0,175000,3.3,,14,2018-07-11,Yes,Hybrid,PhD,87
+1282,Ritika Verma,36.0,Female,Data Science,Delhi,8,920000.0,95000,3.2,98.0,19,2021-08-10,No,Office,BCA,67
+1283,Aisha Sharma,24.0,Male,Web,Mumbai,2,1790000.0,185000,5.0,89.0,18,2022-11-14,No,Office,B.Tech,81
+1284,Diya Jain,22.0,Female,DevOps,Hyderabad,9,1650000.0,110000,3.8,100.0,2,2018-11-18,No,Office,M.Tech,96
+1285,Rahul Sharma,31.0,Male,DevOps,Pune,8,660000.0,60000,3.3,83.0,19,2020-02-02,Yes,Office,MCA,83
+1286,Arjun Patel,30.0,Female,AI,Bangalore,13,530000.0,175000,3.4,79.0,19,2025-08-22,No,Remote,BCA,67
+1287,Vikram Verma,36.0,Female,Data Science,Hyderabad,15,1660000.0,140000,4.6,87.0,15,2019-12-12,No,Office,BCA,93
+1288,Ananya Singh,23.0,Female,Web,Bangalore,8,1350000.0,125000,4.0,83.0,19,2019-12-30,Yes,Office,BCA,71
+1289,Karan Sharma,22.0,Male,DevOps,Mumbai,9,480000.0,90000,4.1,86.0,2,2019-10-29,Yes,Office,B.Tech,67
+1290,Meera Jain,26.0,Female,ML,Pune,14,920000.0,40000,4.5,89.0,3,2020-02-07,No,Remote,MCA,84
+1291,Nisha Sharma,23.0,Male,DevOps,Bhopal,5,1120000.0,145000,3.3,81.0,7,2024-03-28,Yes,Hybrid,BCA,66
+1292,Aditya Gupta,24.0,Male,DevOps,Chennai,8,490000.0,140000,3.5,76.0,16,2018-09-13,No,Hybrid,B.Tech,94
+1293,Aditya Sharma,34.0,Female,ML,Bangalore,11,1360000.0,45000,3.7,95.0,6,2022-12-30,Yes,Hybrid,M.Tech,79
+1294,Rohan Khan,25.0,Female,Web,Jaipur,15,1570000.0,95000,3.5,98.0,15,2021-05-12,Yes,Remote,BCA,63
+1295,Vikram Gupta,23.0,Male,Web,Ahmedabad,2,1780000.0,90000,4.4,79.0,2,2017-06-01,Yes,Office,M.Tech,60
+1296,Aisha Patel,23.0,Male,AI,Bhopal,15,690000.0,55000,3.5,78.0,11,2023-09-04,No,Hybrid,B.Tech,96
+1297,Sneha Gupta,32.0,Male,DevOps,Delhi,11,890000.0,70000,3.4,88.0,5,2023-03-17,Yes,Office,PhD,84
+1298,Vikram Patel,22.0,Male,ML,Jaipur,15,460000.0,150000,3.4,84.0,15,2024-10-06,No,Remote,M.Tech,99
+1299,Ananya Verma,27.0,Male,DevOps,Indore,7,670000.0,195000,4.6,75.0,18,2019-02-26,Yes,Hybrid,M.Tech,77
+1300,Meera Singh,25.0,Female,DevOps,Chennai,9,1660000.0,135000,3.5,76.0,2,2019-05-09,Yes,Office,B.Tech,94
+1301,Aditya Patel,22.0,Male,ML,Bangalore,6,630000.0,150000,4.5,85.0,4,2025-05-19,Yes,Office,MCA,72
+1302,Kavya Patel,29.0,Female,AI,Indore,5,1690000.0,165000,4.0,94.0,9,2021-05-06,Yes,Hybrid,M.Tech,62
+1303,Ritika Khan,23.0,Male,Data Science,Bhopal,5,1640000.0,70000,3.5,84.0,17,2023-06-26,No,Remote,PhD,90
+1304,Diya Sharma,30.0,Female,DevOps,Delhi,0,1080000.0,65000,4.0,93.0,14,2021-09-08,No,Hybrid,B.Tech,88
+1305,Isha Patel,24.0,Female,DevOps,Ahmedabad,0,1490000.0,45000,3.4,95.0,1,2022-05-20,No,Hybrid,M.Tech,85
+1306,Meera Khan,33.0,Female,DevOps,Jaipur,1,450000.0,185000,3.3,85.0,19,2020-04-29,Yes,Office,B.Tech,99
+1307,Karan Patel,23.0,Female,AI,Jaipur,2,730000.0,75000,4.0,86.0,4,2023-04-16,No,Office,PhD,73
+1308,Harsh Verma,29.0,Male,Web,Jaipur,14,1130000.0,130000,4.0,86.0,18,2022-06-15,No,Hybrid,PhD,83
+1309,Ananya Jain,24.0,Male,Web,Pune,5,1620000.0,50000,3.9,77.0,7,2020-02-05,Yes,Hybrid,MCA,94
+1310,Dev Singh,37.0,Female,Web,Ahmedabad,10,500000.0,185000,3.3,82.0,17,2021-08-14,No,Hybrid,BCA,96
+1311,Yash Patel,31.0,Male,DevOps,Hyderabad,11,1030000.0,65000,4.9,76.0,6,2020-03-10,Yes,Office,M.Tech,70
+1312,Kavya Gupta,23.0,Male,DevOps,Hyderabad,11,1570000.0,120000,3.5,76.0,4,2018-08-29,Yes,Hybrid,MCA,69
+1313,Dev Jain,32.0,Male,DevOps,Chennai,15,,110000,5.0,97.0,11,2020-04-02,Yes,Office,MCA,62
+1314,Harsh Patel,39.0,Female,AI,Delhi,6,1470000.0,35000,3.6,85.0,3,2023-07-18,No,Office,B.Tech,92
+1315,Kavya Sharma,37.0,Female,ML,Indore,11,1750000.0,155000,4.8,79.0,10,2021-05-01,No,Office,B.Tech,73
+1316,Aisha Sharma,36.0,Male,AI,Hyderabad,4,1180000.0,150000,4.5,98.0,16,2023-08-03,No,Remote,PhD,84
+1317,Nisha Sharma,35.0,Female,DevOps,Hyderabad,9,1630000.0,140000,4.6,80.0,16,2023-03-19,No,Remote,B.Tech,60
+1318,Rahul Gupta,31.0,Male,DevOps,Indore,3,1180000.0,25000,4.1,82.0,19,2025-07-30,No,Office,MCA,76
+1319,Sneha Sharma,37.0,Female,ML,Bhopal,4,490000.0,165000,3.5,85.0,12,2021-01-03,Yes,Hybrid,BCA,93
+1320,Kavya Sharma,24.0,Female,AI,Delhi,9,910000.0,120000,4.3,85.0,5,2020-01-17,No,Hybrid,MCA,86
+1321,Yash Sharma,27.0,Male,AI,Delhi,3,1730000.0,185000,3.5,94.0,16,2021-09-06,No,Hybrid,BCA,68
+1322,Priya Singh,38.0,Male,AI,Pune,4,1220000.0,60000,,82.0,3,2024-09-19,No,Office,B.Tech,64
+1323,Rahul Sharma,,Male,ML,Delhi,15,550000.0,35000,3.3,93.0,4,2018-05-03,Yes,Office,M.Tech,97
+1324,Harsh Khan,27.0,Male,DevOps,Ahmedabad,11,,130000,4.5,93.0,3,2018-10-20,Yes,Office,B.Tech,93
+1325,Dev Patel,28.0,Female,Data Science,Pune,11,460000.0,170000,3.4,91.0,12,2024-10-30,No,Hybrid,M.Tech,92
+1326,Aditya Gupta,25.0,Male,Web,Hyderabad,1,730000.0,195000,4.1,84.0,15,2017-12-03,No,Office,MCA,74
+1327,Nisha Jain,31.0,Male,Web,Chennai,0,620000.0,75000,4.6,86.0,17,2024-07-24,Yes,Remote,M.Tech,85
+1328,Meera Jain,40.0,Female,ML,Ahmedabad,3,880000.0,145000,5.0,94.0,19,2019-08-12,No,Office,MCA,82
+1329,Ananya Jain,34.0,Male,Data Science,Chennai,4,820000.0,90000,3.4,90.0,1,2017-05-02,Yes,Hybrid,PhD,80
+1330,Rahul Verma,25.0,Female,DevOps,Jaipur,15,1780000.0,175000,4.6,96.0,1,2022-08-30,Yes,Hybrid,B.Tech,84
+1331,Vikram Singh,34.0,Female,Web,Mumbai,15,530000.0,70000,4.4,97.0,19,2021-10-31,No,Office,PhD,94
+1332,Diya Sharma,37.0,Male,AI,Indore,9,1450000.0,130000,4.3,96.0,12,2020-08-05,Yes,Office,BCA,84
+1333,Ananya Singh,33.0,Male,Data Science,Jaipur,2,590000.0,45000,3.6,93.0,11,2020-06-02,Yes,Hybrid,MCA,96
+1334,Ananya Khan,35.0,Female,Data Science,Bangalore,10,,140000,3.2,93.0,11,2023-06-04,No,Office,BCA,70
+1335,Priya Verma,33.0,Male,DevOps,Mumbai,12,640000.0,115000,4.2,76.0,19,2026-01-09,No,Hybrid,B.Tech,96
+1336,Meera Gupta,37.0,Female,DevOps,Jaipur,10,640000.0,190000,3.7,88.0,15,2019-03-31,Yes,Remote,PhD,71
+1337,Priya Patel,28.0,Female,Web,Bhopal,14,1560000.0,135000,4.5,81.0,11,2018-08-29,Yes,Office,M.Tech,86
+1338,Ritika Gupta,31.0,Female,Data Science,Bangalore,14,1050000.0,115000,3.4,82.0,6,2022-06-12,No,Remote,B.Tech,76
+1339,Isha Khan,30.0,Male,Web,Indore,10,550000.0,45000,4.1,,3,2023-10-01,No,Office,M.Tech,75
+1340,Arjun Khan,38.0,Male,Web,Bangalore,10,1790000.0,120000,4.8,78.0,5,2023-07-22,Yes,Remote,M.Tech,77
+1341,Vikram Singh,30.0,Female,ML,Hyderabad,8,1400000.0,95000,3.4,90.0,1,2025-10-18,Yes,Office,B.Tech,75
+1342,Arjun Singh,34.0,Female,Data Science,Bangalore,12,1370000.0,160000,4.4,82.0,10,2017-02-02,Yes,Remote,MCA,100
+1343,Ananya Khan,35.0,Male,ML,Jaipur,13,650000.0,125000,4.9,88.0,3,2026-03-14,No,Hybrid,PhD,95
+1344,Dev Sharma,36.0,Male,AI,Bangalore,9,920000.0,80000,4.6,87.0,17,2020-07-09,Yes,Office,MCA,80
+1345,Priya Sharma,26.0,Male,DevOps,Ahmedabad,12,1280000.0,145000,3.6,80.0,8,2023-05-26,Yes,Hybrid,M.Tech,76
+1346,Harsh Gupta,27.0,Female,Web,Mumbai,0,1540000.0,55000,3.5,80.0,8,2025-01-22,Yes,Remote,BCA,78
+1347,Meera Khan,34.0,Male,Data Science,Hyderabad,13,970000.0,80000,5.0,96.0,9,2019-01-09,Yes,Office,MCA,75
+1348,Meera Jain,36.0,Female,Data Science,Mumbai,12,,85000,3.8,96.0,18,2024-12-11,Yes,Remote,BCA,75
+1349,Diya Verma,33.0,Male,ML,Pune,4,,135000,3.9,96.0,17,2023-04-11,No,Hybrid,MCA,68
+1350,Rahul Verma,38.0,Female,DevOps,Indore,13,740000.0,135000,5.0,83.0,14,2020-03-04,Yes,Hybrid,MCA,69
+1351,Nisha Sharma,36.0,Female,ML,Jaipur,13,580000.0,165000,3.3,97.0,16,2018-04-21,No,Hybrid,B.Tech,69
+1352,Dev Patel,24.0,Female,Data Science,Bangalore,0,910000.0,85000,4.5,93.0,16,2022-11-25,Yes,Hybrid,B.Tech,78
+1353,Rahul Verma,25.0,Male,ML,Delhi,14,720000.0,170000,3.5,97.0,20,2024-01-18,No,Hybrid,PhD,68
+1354,Priya Khan,23.0,Female,Data Science,Delhi,8,590000.0,145000,4.2,77.0,7,2018-12-31,Yes,Hybrid,MCA,78
+1355,Ananya Khan,26.0,Female,DevOps,Bangalore,11,1550000.0,60000,4.9,94.0,16,2024-06-18,No,Hybrid,MCA,77
+1356,Priya Jain,35.0,Male,Web,Jaipur,10,1390000.0,180000,4.0,76.0,17,2022-03-14,Yes,Hybrid,MCA,87
+1357,Rohan Sharma,37.0,Male,DevOps,Bhopal,1,770000.0,110000,3.7,88.0,14,2023-03-07,Yes,Hybrid,PhD,76
+1358,Meera Jain,40.0,Female,ML,Ahmedabad,1,490000.0,145000,4.4,80.0,15,2017-12-08,No,Office,BCA,81
+1359,Sneha Jain,27.0,Female,Web,Bhopal,3,1110000.0,145000,3.4,75.0,20,2017-02-24,No,Hybrid,PhD,99
+1360,Nisha Jain,34.0,Male,AI,Bhopal,0,790000.0,80000,,75.0,18,2019-05-08,Yes,Remote,BCA,89
+1361,Isha Verma,35.0,Female,Data Science,Indore,7,840000.0,160000,4.0,75.0,1,2019-04-05,Yes,Office,MCA,86
+1362,Diya Verma,40.0,Male,Web,Ahmedabad,7,1470000.0,175000,4.3,96.0,11,2025-01-04,Yes,Hybrid,MCA,90
+1363,Aditya Verma,33.0,Female,AI,Hyderabad,7,500000.0,90000,4.5,89.0,13,2023-08-05,No,Office,BCA,90
+1364,Meera Gupta,27.0,Female,AI,Bangalore,3,670000.0,175000,3.4,94.0,18,2025-11-25,Yes,Remote,BCA,76
+1365,Priya Gupta,27.0,Female,ML,Indore,3,1730000.0,90000,3.3,94.0,2,2023-04-21,No,Remote,PhD,98
+1366,Ananya Patel,23.0,Male,AI,Indore,1,730000.0,195000,4.6,78.0,6,2022-09-09,No,Office,MCA,92
+1367,Nisha Singh,25.0,Female,DevOps,Pune,7,1300000.0,20000,3.4,88.0,3,2026-01-28,No,Hybrid,MCA,83
+1368,Yash Patel,29.0,Male,DevOps,Mumbai,11,1520000.0,165000,3.4,88.0,3,2017-05-02,No,Hybrid,MCA,70
+1369,Arjun Jain,34.0,Female,ML,Indore,9,830000.0,185000,3.3,97.0,1,2021-09-14,No,Office,PhD,69
+1370,Diya Verma,36.0,Female,Web,Pune,9,1580000.0,80000,4.8,87.0,17,2017-12-12,No,Remote,B.Tech,92
+1371,Isha Jain,38.0,Female,DevOps,Mumbai,7,850000.0,100000,,92.0,2,2025-09-06,No,Hybrid,PhD,82
+1372,Isha Singh,25.0,Male,Web,Jaipur,7,460000.0,190000,5.0,93.0,8,2020-12-05,Yes,Hybrid,PhD,97
+1373,Rohan Singh,33.0,Female,DevOps,Jaipur,6,1530000.0,170000,3.3,79.0,17,2022-01-02,No,Hybrid,PhD,91
+1374,Harsh Khan,36.0,Male,AI,Chennai,4,1510000.0,165000,3.5,97.0,16,2024-11-25,Yes,Office,M.Tech,95
+1375,Isha Gupta,25.0,Male,AI,Pune,11,1390000.0,115000,3.3,86.0,19,2020-05-27,No,Remote,BCA,78
+1376,Arjun Gupta,37.0,Male,AI,Jaipur,10,1340000.0,160000,3.3,84.0,15,2025-10-06,No,Office,MCA,69
+1377,Rohan Khan,32.0,Male,Data Science,Ahmedabad,8,1490000.0,160000,4.8,76.0,10,2024-03-30,Yes,Office,PhD,65
+1378,Rahul Khan,39.0,Male,AI,Ahmedabad,5,1780000.0,190000,4.1,78.0,15,2017-03-19,Yes,Office,PhD,80
+1379,Rahul Sharma,23.0,Male,Data Science,Jaipur,10,500000.0,185000,3.5,,6,2021-04-14,No,Remote,M.Tech,76
+1380,Ananya Singh,26.0,Male,Web,Indore,9,880000.0,35000,4.9,97.0,9,2021-05-17,No,Remote,B.Tech,72
+1381,Nisha Sharma,40.0,Female,AI,Delhi,13,1740000.0,195000,3.4,89.0,9,2017-09-26,Yes,Remote,PhD,68
+1382,Yash Sharma,35.0,Male,Web,Ahmedabad,13,1730000.0,95000,4.9,80.0,10,2023-03-24,Yes,Remote,B.Tech,90
+1383,Rohan Gupta,30.0,Male,AI,Jaipur,2,990000.0,190000,4.1,98.0,9,2020-05-16,No,Remote,PhD,92
+1384,Vikram Jain,32.0,Male,DevOps,Chennai,10,1600000.0,165000,4.4,81.0,1,2017-03-07,Yes,Office,M.Tech,86
+1385,Arjun Khan,37.0,Female,Web,Pune,11,640000.0,55000,4.8,89.0,1,2026-02-12,Yes,Hybrid,BCA,72
+1386,Kavya Sharma,29.0,Female,Web,Ahmedabad,7,1360000.0,90000,4.7,100.0,7,2022-07-16,Yes,Remote,MCA,67
+1387,Vikram Jain,40.0,Male,AI,Hyderabad,2,940000.0,75000,4.2,93.0,19,2023-08-07,Yes,Office,BCA,72
+1388,Meera Singh,22.0,Male,DevOps,Chennai,10,1610000.0,35000,,96.0,16,2021-11-07,No,Office,B.Tech,74
+1389,Priya Patel,35.0,Male,ML,Hyderabad,13,1450000.0,90000,3.3,75.0,3,2017-11-01,Yes,Remote,MCA,87
+1390,Aisha Verma,40.0,Female,Data Science,Chennai,7,1080000.0,125000,3.6,76.0,19,2017-10-26,Yes,Remote,B.Tech,62
+1391,Arjun Gupta,24.0,Male,DevOps,Bhopal,1,1580000.0,35000,4.3,78.0,8,2020-04-22,Yes,Hybrid,MCA,89
+1392,Karan Verma,25.0,Male,DevOps,Hyderabad,2,510000.0,20000,3.8,78.0,12,2023-08-26,No,Hybrid,PhD,88
+1393,Nisha Singh,26.0,Female,ML,Indore,4,1240000.0,115000,4.1,86.0,1,2018-08-27,Yes,Remote,M.Tech,92
+1394,Nisha Jain,39.0,Female,DevOps,Indore,6,950000.0,125000,4.4,77.0,19,2024-06-28,No,Office,BCA,86
+1395,Karan Patel,25.0,Female,ML,Bhopal,14,550000.0,90000,4.9,97.0,7,2023-12-31,No,Remote,B.Tech,83
+1396,Karan Patel,,Female,AI,Bangalore,1,740000.0,135000,4.0,99.0,9,2017-05-02,Yes,Hybrid,PhD,75
+1397,Isha Gupta,22.0,Male,ML,Indore,10,700000.0,55000,,87.0,6,2019-05-12,No,Office,B.Tech,67
+1398,Aisha Verma,26.0,Male,DevOps,Hyderabad,1,1410000.0,95000,3.8,95.0,5,2025-07-23,No,Remote,B.Tech,100
+1399,Harsh Singh,26.0,Female,DevOps,Chennai,12,650000.0,180000,4.6,80.0,6,2025-06-05,No,Office,BCA,93
+1400,Priya Gupta,37.0,Male,ML,Bhopal,6,1470000.0,90000,4.6,81.0,13,2022-01-26,Yes,Hybrid,BCA,95
+1401,Meera Gupta,24.0,Female,Web,Indore,14,1350000.0,155000,3.3,85.0,9,2022-03-31,No,Remote,M.Tech,88
+1402,Ananya Sharma,24.0,Female,Data Science,Jaipur,7,1200000.0,105000,4.1,100.0,7,2018-02-08,No,Remote,BCA,76
+1403,Kavya Khan,30.0,Female,Web,Ahmedabad,9,800000.0,20000,4.6,83.0,1,2020-02-29,No,Office,PhD,69
+1404,Rohan Singh,29.0,Male,Web,Bhopal,14,980000.0,165000,4.1,99.0,7,2020-10-27,No,Hybrid,PhD,61
+1405,Arjun Khan,40.0,Female,ML,Ahmedabad,13,470000.0,150000,4.4,82.0,1,2024-09-09,Yes,Remote,M.Tech,81
+1406,Yash Jain,40.0,Female,Data Science,Pune,10,970000.0,50000,3.3,90.0,4,2023-05-22,Yes,Remote,PhD,91
+1407,Harsh Sharma,,Male,ML,Bhopal,1,1430000.0,165000,3.6,77.0,13,2021-02-18,Yes,Remote,M.Tech,94
+1408,Dev Singh,24.0,Male,DevOps,Chennai,5,970000.0,170000,3.6,97.0,9,2023-10-09,Yes,Remote,M.Tech,88
+1409,Isha Gupta,34.0,Male,Web,Bangalore,11,1700000.0,165000,4.2,84.0,6,2024-11-08,No,Hybrid,MCA,71
+1410,Rohan Jain,25.0,Male,Web,Bhopal,9,560000.0,190000,4.8,95.0,18,2024-06-23,Yes,Hybrid,B.Tech,66
+1411,Arjun Khan,32.0,Male,Web,Delhi,12,1090000.0,165000,3.3,,1,2020-11-08,No,Remote,M.Tech,80
+1412,Sneha Khan,36.0,Male,DevOps,Mumbai,8,660000.0,170000,3.6,79.0,6,2018-10-23,No,Remote,PhD,85
+1413,Diya Khan,22.0,Male,Web,Hyderabad,14,1360000.0,85000,4.5,92.0,15,2024-10-24,Yes,Office,B.Tech,63
+1414,Karan Jain,28.0,Male,AI,Mumbai,10,1060000.0,20000,3.2,,6,2026-03-15,Yes,Remote,MCA,92
+1415,Ananya Singh,32.0,Female,AI,Delhi,7,930000.0,55000,4.9,88.0,13,2019-05-26,No,Remote,MCA,73
+1416,Ritika Khan,24.0,Male,ML,Mumbai,3,1390000.0,175000,4.8,99.0,20,2024-12-28,No,Office,MCA,68
+1417,Aarav Verma,32.0,Male,ML,Bangalore,0,490000.0,90000,4.3,95.0,14,2019-08-11,Yes,Office,B.Tech,63
+1418,Rahul Singh,37.0,Male,DevOps,Bhopal,10,1410000.0,160000,3.3,94.0,10,2018-07-04,Yes,Remote,BCA,81
+1419,Yash Jain,39.0,Male,Data Science,Chennai,10,1080000.0,185000,4.5,87.0,3,2019-01-22,Yes,Remote,M.Tech,73
+1420,Aisha Patel,27.0,Female,ML,Ahmedabad,13,650000.0,95000,4.0,81.0,15,2018-12-24,Yes,Hybrid,MCA,65
+1421,Arjun Gupta,33.0,Male,ML,Ahmedabad,15,1650000.0,65000,4.1,99.0,18,2017-03-23,Yes,Office,M.Tech,76
+1422,Harsh Jain,31.0,Female,Web,Bhopal,0,1680000.0,80000,3.4,79.0,14,2017-02-22,No,Office,BCA,84
+1423,Kavya Verma,40.0,Female,ML,Delhi,13,540000.0,80000,3.4,80.0,13,2019-11-12,No,Office,M.Tech,75
+1424,Ananya Khan,33.0,Male,Web,Bhopal,5,820000.0,95000,4.0,83.0,19,2017-02-20,Yes,Office,M.Tech,87
+1425,Dev Khan,35.0,Female,AI,Hyderabad,2,1730000.0,150000,4.4,84.0,7,2018-03-24,No,Office,BCA,60
+1426,Vikram Patel,37.0,Female,AI,Jaipur,11,1510000.0,75000,4.4,80.0,4,2019-02-03,No,Office,M.Tech,71
+1427,Rohan Gupta,27.0,Male,ML,Mumbai,2,1490000.0,70000,4.8,95.0,11,2020-04-15,Yes,Office,M.Tech,90
+1428,Aisha Verma,25.0,Female,Web,Chennai,0,460000.0,185000,4.6,81.0,11,2021-03-19,No,Hybrid,BCA,81
+1429,Arjun Jain,29.0,Male,Data Science,Ahmedabad,0,1410000.0,50000,5.0,100.0,4,2022-02-15,No,Office,M.Tech,83
+1430,Aditya Jain,37.0,Female,AI,Ahmedabad,1,450000.0,135000,4.9,75.0,16,2026-01-21,No,Office,PhD,65
+1431,Nisha Khan,37.0,Male,ML,Jaipur,1,1200000.0,180000,4.5,93.0,15,2018-06-08,Yes,Hybrid,B.Tech,90
+1432,Rahul Patel,29.0,Female,Web,Mumbai,12,670000.0,120000,5.0,,5,2025-08-05,No,Remote,BCA,74
+1433,Ananya Singh,24.0,Male,Data Science,Mumbai,7,1420000.0,90000,4.6,88.0,11,2019-11-28,Yes,Office,B.Tech,96
+1434,Kavya Khan,32.0,Male,DevOps,Ahmedabad,10,450000.0,155000,4.3,87.0,19,2025-08-26,Yes,Remote,MCA,60
+1435,Diya Verma,36.0,Female,ML,Jaipur,4,1200000.0,110000,4.1,94.0,4,2025-05-18,No,Office,PhD,90
+1436,Diya Khan,28.0,Male,Web,Bhopal,7,1410000.0,85000,4.7,97.0,10,2024-11-08,Yes,Remote,PhD,85
+1437,Vikram Singh,37.0,Male,ML,Chennai,12,1450000.0,195000,4.5,81.0,6,2018-02-03,Yes,Hybrid,MCA,78
+1438,Meera Jain,28.0,Male,Data Science,Mumbai,4,950000.0,50000,3.2,93.0,12,2021-03-23,No,Remote,B.Tech,67
+1439,Rohan Khan,32.0,Female,Web,Hyderabad,12,1480000.0,75000,3.4,84.0,15,2025-09-13,No,Remote,B.Tech,67
+1440,Nisha Jain,37.0,Female,ML,Ahmedabad,5,,50000,4.2,98.0,5,2021-04-22,Yes,Hybrid,B.Tech,94
+1441,Ananya Patel,22.0,Male,Data Science,Jaipur,6,1700000.0,55000,4.7,100.0,15,2024-05-21,No,Remote,B.Tech,68
+1442,Aarav Patel,27.0,Female,Data Science,Jaipur,13,530000.0,70000,3.4,92.0,10,2024-05-19,No,Remote,PhD,91
+1443,Isha Khan,38.0,Male,AI,Ahmedabad,6,1750000.0,30000,3.4,82.0,18,2018-08-04,Yes,Office,BCA,77
+1444,Vikram Verma,35.0,Male,Data Science,Hyderabad,13,1110000.0,100000,4.8,77.0,7,2024-10-15,No,Office,PhD,98
+1445,Ritika Gupta,26.0,Male,ML,Mumbai,3,1560000.0,55000,4.9,83.0,12,2024-09-02,No,Hybrid,M.Tech,74
+1446,Nisha Sharma,25.0,Female,DevOps,Hyderabad,9,1010000.0,185000,3.4,80.0,18,2023-08-09,No,Office,B.Tech,63
+1447,Vikram Patel,34.0,Female,DevOps,Hyderabad,4,1480000.0,180000,3.4,,2,2024-05-17,No,Office,M.Tech,98
+1448,Rohan Singh,36.0,Female,ML,Mumbai,7,1350000.0,185000,4.1,88.0,3,2020-06-04,Yes,Office,M.Tech,65
+1449,Nisha Verma,23.0,Male,Web,Delhi,4,1710000.0,180000,3.2,96.0,20,2022-05-19,Yes,Office,B.Tech,87
+1450,Rohan Singh,33.0,Male,DevOps,Indore,7,550000.0,185000,4.9,99.0,2,2018-12-18,No,Hybrid,MCA,70
+1451,Rahul Patel,25.0,Male,DevOps,Bhopal,15,1080000.0,115000,4.7,84.0,7,2020-04-17,No,Office,PhD,62
+1452,Aarav Sharma,37.0,Female,Web,Bangalore,12,1620000.0,75000,3.8,,3,2020-12-23,Yes,Hybrid,B.Tech,91
+1453,Yash Patel,,Male,ML,Bhopal,3,1460000.0,105000,3.9,92.0,1,2021-12-02,No,Office,M.Tech,67
+1454,Nisha Verma,23.0,Female,AI,Indore,3,1290000.0,105000,3.5,90.0,13,2021-09-21,No,Remote,B.Tech,66
+1455,Nisha Singh,26.0,Female,Web,Mumbai,0,480000.0,155000,3.6,85.0,14,2021-11-15,Yes,Office,M.Tech,92
+1456,Dev Jain,30.0,Male,AI,Mumbai,5,1080000.0,50000,4.0,100.0,5,2019-02-12,No,Remote,BCA,72
+1457,Meera Gupta,35.0,Male,DevOps,Bhopal,7,680000.0,90000,3.9,97.0,2,2020-10-08,No,Remote,BCA,83
+1458,Rahul Verma,33.0,Male,Web,Pune,9,570000.0,85000,3.2,85.0,9,2022-04-18,No,Hybrid,BCA,79
+1459,Arjun Sharma,22.0,Male,AI,Ahmedabad,6,1370000.0,105000,4.3,82.0,4,2023-07-22,Yes,Office,M.Tech,72
+1460,Karan Gupta,25.0,Female,DevOps,Indore,1,1320000.0,65000,4.1,92.0,12,2018-06-08,No,Office,B.Tech,87
+1461,Arjun Gupta,35.0,Male,AI,Chennai,6,1150000.0,35000,3.4,93.0,17,2025-04-22,No,Office,MCA,85
+1462,Harsh Singh,28.0,Female,AI,Hyderabad,14,,180000,4.3,,9,2022-08-26,Yes,Remote,M.Tech,62
+1463,Ananya Sharma,31.0,Female,DevOps,Indore,6,1160000.0,95000,3.7,95.0,11,2022-12-30,Yes,Office,PhD,76
+1464,Aarav Verma,35.0,Male,Web,Hyderabad,5,590000.0,105000,3.2,98.0,20,2019-11-15,Yes,Hybrid,M.Tech,80
+1465,Yash Patel,40.0,Male,AI,Ahmedabad,15,1040000.0,45000,4.0,90.0,16,2019-01-14,Yes,Office,BCA,61
+1466,Harsh Patel,27.0,Male,DevOps,Mumbai,3,930000.0,145000,3.3,95.0,13,2025-02-14,No,Remote,B.Tech,60
+1467,Aditya Khan,23.0,Male,AI,Pune,3,660000.0,20000,4.9,100.0,16,2023-01-31,No,Remote,BCA,81
+1468,Harsh Khan,29.0,Female,AI,Delhi,9,1130000.0,190000,3.4,78.0,8,2018-02-25,Yes,Remote,MCA,84
+1469,Ananya Singh,31.0,Female,Data Science,Ahmedabad,3,1430000.0,70000,4.5,90.0,11,2019-07-09,Yes,Hybrid,B.Tech,62
+1470,Rahul Gupta,27.0,Female,ML,Mumbai,11,910000.0,110000,3.5,84.0,1,2018-03-02,Yes,Office,M.Tech,80
+1471,Arjun Singh,36.0,Female,Web,Bhopal,4,730000.0,120000,4.9,77.0,16,2019-01-15,No,Office,BCA,68
+1472,Meera Verma,29.0,Male,Data Science,Bangalore,2,1720000.0,140000,4.1,82.0,12,2023-07-08,Yes,Remote,B.Tech,83
+1473,Ritika Gupta,26.0,Male,AI,Bangalore,14,1340000.0,110000,4.7,79.0,2,2018-08-14,Yes,Remote,M.Tech,84
+1474,Vikram Sharma,35.0,Male,Data Science,Delhi,4,720000.0,25000,3.3,80.0,19,2021-02-05,No,Remote,M.Tech,90
+1475,Diya Verma,38.0,Male,DevOps,Pune,4,1310000.0,55000,4.4,,1,2017-09-03,No,Hybrid,MCA,95
+1476,Aisha Sharma,30.0,Male,Web,Pune,6,1530000.0,60000,3.7,87.0,18,2021-06-29,Yes,Office,MCA,90
+1477,Priya Singh,34.0,Male,DevOps,Mumbai,10,1400000.0,135000,3.6,77.0,3,2017-04-25,Yes,Office,B.Tech,79
+1478,Aditya Sharma,28.0,Female,Data Science,Indore,1,660000.0,170000,4.2,100.0,10,2017-07-16,No,Office,M.Tech,80
+1479,Arjun Gupta,33.0,Male,ML,Pune,0,690000.0,65000,4.8,91.0,5,2023-08-03,No,Remote,B.Tech,74
+1480,Vikram Singh,26.0,Female,ML,Ahmedabad,14,1730000.0,125000,4.5,99.0,14,2025-10-22,Yes,Office,MCA,75
+1481,Ananya Gupta,24.0,Female,AI,Hyderabad,2,1720000.0,195000,3.2,84.0,6,2022-08-06,Yes,Hybrid,PhD,83
+1482,Nisha Sharma,24.0,Female,ML,Bhopal,3,1620000.0,60000,4.1,89.0,14,2023-05-19,Yes,Hybrid,BCA,92
+1483,Priya Jain,32.0,Male,AI,Mumbai,1,1500000.0,30000,3.7,96.0,10,2025-04-24,No,Remote,PhD,85
+1484,Ananya Gupta,29.0,Female,AI,Bhopal,2,680000.0,50000,4.0,89.0,11,2019-01-09,Yes,Hybrid,BCA,98
+1485,Arjun Sharma,37.0,Female,Web,Chennai,1,540000.0,120000,4.9,81.0,7,2023-09-29,Yes,Remote,B.Tech,87
+1486,Rahul Patel,27.0,Male,Data Science,Bhopal,6,1150000.0,185000,3.7,88.0,11,2024-07-05,No,Remote,M.Tech,82
+1487,Aisha Patel,37.0,Male,DevOps,Ahmedabad,0,860000.0,140000,4.0,93.0,5,2023-04-17,No,Office,BCA,60
+1488,Yash Jain,36.0,Male,Data Science,Bangalore,14,1260000.0,20000,4.9,91.0,7,2018-05-30,No,Office,PhD,70
+1489,Isha Verma,28.0,Male,Web,Chennai,0,930000.0,135000,4.2,,14,2020-05-21,No,Hybrid,BCA,94
+1490,Meera Jain,32.0,Female,DevOps,Mumbai,12,1620000.0,155000,3.5,92.0,3,2020-03-13,Yes,Remote,B.Tech,99
+1491,Priya Khan,25.0,Female,DevOps,Bhopal,13,700000.0,110000,4.1,96.0,4,2019-05-18,Yes,Hybrid,B.Tech,82
+1492,Rahul Singh,36.0,Female,AI,Delhi,9,1460000.0,180000,,82.0,14,2020-01-02,Yes,Remote,B.Tech,69
+1493,Dev Gupta,38.0,Male,Web,Pune,1,1550000.0,145000,5.0,95.0,13,2025-12-27,No,Office,M.Tech,87
+1494,Rohan Sharma,26.0,Male,Web,Delhi,10,1450000.0,70000,4.3,92.0,19,2019-04-15,Yes,Remote,PhD,94
+1495,Priya Singh,24.0,Male,DevOps,Bangalore,5,,130000,5.0,99.0,13,2019-09-09,No,Office,B.Tech,77
+1496,Rohan Sharma,26.0,Female,ML,Bangalore,8,710000.0,110000,4.9,79.0,13,2019-01-10,Yes,Hybrid,B.Tech,86
+1497,Sneha Jain,24.0,Male,Data Science,Indore,9,1410000.0,75000,4.3,80.0,12,2017-02-11,No,Office,PhD,94
+1498,Ananya Patel,,Male,ML,Pune,6,940000.0,65000,4.2,99.0,8,2021-02-03,Yes,Office,M.Tech,77
+1499,Karan Jain,28.0,Female,Web,Mumbai,8,1200000.0,80000,4.7,87.0,19,2018-12-10,No,Remote,M.Tech,91
+1500,Rohan Gupta,36.0,Male,Data Science,Jaipur,11,1140000.0,80000,4.3,88.0,9,2021-03-12,No,Hybrid,PhD,93
+1501,Aditya Sharma,22.0,Male,ML,Delhi,11,1270000.0,135000,3.5,81.0,11,2018-08-18,Yes,Hybrid,PhD,80
+1502,Meera Singh,39.0,Female,AI,Bangalore,13,990000.0,40000,3.4,94.0,2,2024-08-26,No,Hybrid,B.Tech,77
+1503,Isha Patel,25.0,Female,Data Science,Jaipur,0,1280000.0,25000,3.6,,17,2022-03-07,Yes,Hybrid,B.Tech,64
+1504,Yash Gupta,35.0,Male,ML,Ahmedabad,12,1330000.0,35000,4.2,94.0,4,2020-05-07,Yes,Remote,B.Tech,60
+1505,Diya Sharma,32.0,Male,ML,Mumbai,1,670000.0,20000,4.8,92.0,9,2019-11-30,No,Office,PhD,84
+1506,Harsh Patel,27.0,Female,Web,Hyderabad,3,750000.0,160000,4.8,88.0,11,2022-11-08,No,Remote,B.Tech,76
+1507,Karan Sharma,24.0,Male,Web,Bhopal,15,1070000.0,40000,4.5,77.0,7,2017-09-04,No,Remote,BCA,73
+1508,Arjun Gupta,38.0,Male,Web,Bangalore,7,1240000.0,60000,4.4,78.0,3,2021-01-29,No,Hybrid,M.Tech,79
+1509,Harsh Gupta,40.0,Female,ML,Mumbai,0,720000.0,105000,3.6,80.0,18,2022-05-05,Yes,Hybrid,MCA,73
+1510,Karan Gupta,38.0,Male,DevOps,Hyderabad,6,580000.0,155000,3.9,87.0,17,2020-04-19,No,Office,MCA,66
+1511,Aisha Jain,29.0,Female,Web,Bhopal,8,580000.0,50000,4.2,92.0,4,2019-07-17,Yes,Office,BCA,91
+1512,Priya Patel,28.0,Female,Data Science,Pune,9,1180000.0,170000,3.4,97.0,6,2024-09-18,No,Hybrid,M.Tech,60
+1513,Dev Sharma,35.0,Female,AI,Chennai,11,,20000,4.8,99.0,4,2022-04-25,Yes,Remote,PhD,78
+1514,Nisha Singh,38.0,Female,Web,Delhi,8,690000.0,130000,4.6,90.0,12,2024-06-10,No,Office,BCA,93
+1515,Aarav Patel,37.0,Female,ML,Bangalore,11,1770000.0,65000,3.2,82.0,3,2022-08-02,Yes,Hybrid,B.Tech,77
+1516,Isha Patel,39.0,Male,DevOps,Jaipur,13,1790000.0,145000,4.8,85.0,11,2020-02-06,Yes,Hybrid,MCA,96
+1517,Ritika Jain,33.0,Male,ML,Chennai,9,470000.0,185000,4.4,79.0,10,2023-12-31,Yes,Hybrid,B.Tech,89
+1518,Kavya Singh,31.0,Male,Data Science,Hyderabad,8,1230000.0,35000,,75.0,5,2018-07-19,Yes,Hybrid,PhD,65
+1519,Isha Patel,23.0,Female,ML,Ahmedabad,9,1080000.0,100000,4.3,78.0,5,2023-09-12,Yes,Hybrid,M.Tech,86
+1520,Yash Jain,31.0,Female,DevOps,Indore,4,1630000.0,50000,3.9,88.0,15,2022-11-27,No,Hybrid,MCA,86
+1521,Harsh Singh,36.0,Male,DevOps,Jaipur,7,510000.0,115000,4.0,94.0,19,2023-07-06,No,Remote,MCA,68
+1522,Ananya Khan,22.0,Female,DevOps,Chennai,10,1770000.0,50000,3.3,95.0,11,2023-09-01,Yes,Remote,PhD,92
+1523,Aarav Khan,23.0,Female,DevOps,Bangalore,9,1710000.0,115000,4.8,79.0,4,2025-01-24,Yes,Remote,M.Tech,98
+1524,Nisha Patel,38.0,Male,DevOps,Hyderabad,9,710000.0,55000,4.7,76.0,20,2021-07-16,No,Office,PhD,67
+1525,Ananya Verma,22.0,Female,ML,Hyderabad,9,1060000.0,170000,4.5,90.0,13,2020-03-31,No,Office,B.Tech,89
+1526,Aisha Gupta,35.0,Male,ML,Pune,1,,115000,4.2,,15,2024-03-27,No,Hybrid,B.Tech,70
+1527,Vikram Singh,38.0,Female,Web,Mumbai,14,1790000.0,125000,3.3,86.0,16,2025-01-08,No,Hybrid,PhD,71
+1528,Sneha Patel,38.0,Male,Data Science,Chennai,1,1270000.0,40000,4.2,87.0,16,2017-05-01,No,Remote,M.Tech,66
+1529,Kavya Verma,27.0,Male,AI,Indore,14,1520000.0,40000,3.3,76.0,4,2025-07-24,No,Hybrid,M.Tech,100
+1530,Dev Sharma,28.0,Male,AI,Delhi,6,1570000.0,185000,3.6,88.0,5,2017-12-19,Yes,Hybrid,MCA,96
+1531,Ritika Khan,24.0,Male,Data Science,Chennai,11,1720000.0,130000,3.6,91.0,14,2023-12-09,No,Remote,PhD,65
+1532,Kavya Sharma,38.0,Male,ML,Mumbai,8,1720000.0,110000,4.3,82.0,18,2021-05-19,Yes,Office,PhD,92
+1533,Karan Verma,23.0,Female,Data Science,Bangalore,1,1120000.0,125000,3.3,81.0,16,2018-07-25,Yes,Office,PhD,62
+1534,Nisha Verma,24.0,Male,ML,Bhopal,3,650000.0,30000,4.1,98.0,16,2017-05-26,No,Remote,B.Tech,63
+1535,Vikram Gupta,,Female,DevOps,Pune,12,1420000.0,140000,4.5,76.0,4,2024-10-19,No,Remote,PhD,83
+1536,Aarav Khan,32.0,Male,Data Science,Mumbai,1,1050000.0,190000,4.3,98.0,2,2025-12-29,Yes,Hybrid,M.Tech,78
+1537,Karan Gupta,33.0,Female,AI,Chennai,8,780000.0,40000,4.1,77.0,10,2023-02-05,No,Office,BCA,75
+1538,Karan Patel,30.0,Male,ML,Jaipur,8,1730000.0,175000,3.8,94.0,7,2017-11-18,Yes,Hybrid,M.Tech,62
+1539,Rahul Khan,36.0,Female,Web,Delhi,2,500000.0,115000,3.3,87.0,13,2017-09-02,No,Hybrid,B.Tech,74
+1540,Dev Patel,27.0,Male,ML,Ahmedabad,8,1230000.0,125000,4.6,94.0,14,2026-02-01,No,Office,B.Tech,66
+1541,Rahul Sharma,31.0,Male,DevOps,Hyderabad,0,1770000.0,60000,4.9,82.0,11,2020-02-24,No,Remote,PhD,77
+1542,Diya Singh,30.0,Female,DevOps,Bangalore,0,1270000.0,160000,4.7,75.0,14,2022-03-26,Yes,Office,B.Tech,77
+1543,Sneha Patel,39.0,Male,AI,Mumbai,7,1570000.0,60000,4.6,90.0,2,2024-01-26,Yes,Office,PhD,88
+1544,Priya Singh,23.0,Male,Data Science,Jaipur,1,1110000.0,190000,3.2,86.0,15,2023-09-26,Yes,Office,B.Tech,75
+1545,Meera Jain,40.0,Female,Web,Hyderabad,11,1510000.0,120000,4.0,75.0,20,2020-10-04,Yes,Remote,BCA,62
+1546,Dev Sharma,26.0,Male,Web,Mumbai,6,990000.0,130000,4.1,91.0,3,2021-04-01,Yes,Office,PhD,96
+1547,Isha Patel,35.0,Female,AI,Indore,6,580000.0,105000,4.4,85.0,8,2023-06-15,No,Hybrid,B.Tech,75
+1548,Dev Khan,35.0,Male,DevOps,Bangalore,13,1740000.0,160000,3.9,82.0,14,2019-07-31,Yes,Office,BCA,78
+1549,Aarav Patel,25.0,Male,Web,Hyderabad,5,1740000.0,80000,4.2,99.0,18,2022-02-03,No,Office,B.Tech,68
+1550,Ritika Patel,35.0,Female,Data Science,Indore,4,630000.0,130000,4.8,88.0,11,2021-07-06,Yes,Office,B.Tech,64
+1551,Dev Khan,33.0,Male,AI,Delhi,5,1600000.0,60000,4.0,97.0,19,2025-02-12,No,Office,MCA,84
+1552,Aditya Gupta,27.0,Female,AI,Pune,13,690000.0,185000,4.1,91.0,2,2020-03-14,Yes,Hybrid,PhD,77
+1553,Ananya Patel,32.0,Female,AI,Mumbai,8,870000.0,110000,3.7,80.0,7,2023-10-19,Yes,Remote,PhD,62
+1554,Vikram Khan,39.0,Female,ML,Mumbai,14,,155000,3.2,93.0,4,2022-11-04,No,Hybrid,MCA,76
+1555,Harsh Singh,26.0,Female,Web,Jaipur,10,740000.0,40000,4.6,82.0,3,2018-10-04,No,Remote,MCA,66
+1556,Karan Singh,38.0,Female,AI,Chennai,7,540000.0,140000,4.3,93.0,6,2024-07-21,No,Hybrid,M.Tech,72
+1557,Rahul Verma,24.0,Female,DevOps,Bangalore,13,,30000,4.2,80.0,12,2024-09-18,No,Office,M.Tech,79
+1558,Yash Singh,31.0,Male,Web,Mumbai,9,1450000.0,55000,4.2,82.0,6,2021-09-15,No,Hybrid,B.Tech,82
+1559,Meera Sharma,26.0,Female,ML,Indore,6,1700000.0,105000,4.4,,14,2025-10-12,No,Hybrid,MCA,85
+1560,Karan Khan,23.0,Male,DevOps,Ahmedabad,5,1010000.0,90000,4.7,88.0,11,2023-01-05,Yes,Office,PhD,61
+1561,Ritika Patel,22.0,Male,DevOps,Bhopal,6,1300000.0,35000,4.6,95.0,8,2021-01-23,No,Remote,BCA,81
+1562,Sneha Singh,39.0,Female,Data Science,Bangalore,15,540000.0,145000,4.6,91.0,8,2017-06-23,Yes,Hybrid,B.Tech,84
+1563,Ritika Verma,26.0,Male,Data Science,Ahmedabad,0,640000.0,25000,4.5,88.0,13,2025-04-30,Yes,Office,BCA,80
+1564,Priya Gupta,22.0,Female,Web,Hyderabad,13,960000.0,110000,4.9,87.0,18,2018-01-17,Yes,Hybrid,B.Tech,91
+1565,Vikram Khan,33.0,Male,Data Science,Jaipur,9,510000.0,50000,3.6,93.0,6,2020-09-23,Yes,Hybrid,PhD,75
+1566,Aditya Jain,34.0,Female,Data Science,Hyderabad,4,1040000.0,125000,4.1,98.0,7,2017-05-30,No,Office,MCA,80
+1567,Rohan Gupta,29.0,Male,Data Science,Pune,13,1680000.0,50000,4.7,77.0,17,2024-11-04,Yes,Remote,M.Tech,88
+1568,Aarav Singh,25.0,Male,Web,Hyderabad,13,1710000.0,195000,4.6,98.0,9,2021-06-24,No,Office,BCA,96
+1569,Karan Singh,26.0,Male,AI,Jaipur,15,970000.0,100000,4.9,94.0,16,2022-03-11,Yes,Hybrid,MCA,71
+1570,Sneha Sharma,24.0,Female,DevOps,Bangalore,14,930000.0,35000,3.4,78.0,12,2023-09-01,Yes,Remote,BCA,78
+1571,Karan Singh,35.0,Male,ML,Ahmedabad,4,1480000.0,40000,4.2,81.0,4,2018-02-26,Yes,Office,PhD,84
+1572,Sneha Gupta,40.0,Male,ML,Mumbai,4,1660000.0,45000,3.2,81.0,2,2018-08-11,Yes,Office,MCA,87
+1573,Harsh Singh,32.0,Male,DevOps,Bangalore,11,750000.0,170000,3.9,97.0,6,2020-06-30,No,Office,M.Tech,87
+1574,Aisha Verma,37.0,Male,Web,Indore,13,1560000.0,130000,3.5,89.0,6,2019-05-26,Yes,Remote,MCA,83
+1575,Rahul Jain,22.0,Female,Web,Delhi,1,1390000.0,105000,4.1,,9,2024-04-05,No,Office,B.Tech,96
+1576,Aisha Jain,37.0,Male,AI,Pune,11,1660000.0,30000,4.4,78.0,3,2017-04-29,No,Remote,B.Tech,88
+1577,Sneha Verma,23.0,Female,DevOps,Delhi,10,1160000.0,125000,3.5,75.0,13,2024-12-15,No,Office,B.Tech,64
+1578,Aarav Singh,38.0,Female,DevOps,Indore,13,660000.0,180000,3.3,97.0,4,2018-12-10,No,Hybrid,PhD,65
+1579,Aarav Patel,36.0,Female,Web,Mumbai,5,680000.0,25000,3.4,95.0,8,2025-11-05,No,Office,M.Tech,68
+1580,Rahul Jain,34.0,Female,ML,Mumbai,5,800000.0,80000,3.9,83.0,16,2020-04-23,No,Office,BCA,82
+1581,Isha Patel,38.0,Female,DevOps,Jaipur,13,880000.0,85000,4.7,92.0,9,2020-11-21,Yes,Office,M.Tech,76
+1582,Arjun Jain,30.0,Male,ML,Mumbai,11,1770000.0,120000,3.5,93.0,12,2023-04-29,Yes,Remote,MCA,90
+1583,Arjun Gupta,25.0,Male,ML,Indore,13,1230000.0,165000,4.2,89.0,20,2025-03-13,No,Hybrid,MCA,79
+1584,Aisha Jain,29.0,Male,DevOps,Pune,5,1130000.0,180000,3.9,,5,2020-05-16,No,Remote,B.Tech,79
+1585,Sneha Patel,26.0,Male,Web,Mumbai,9,870000.0,115000,4.4,80.0,8,2017-11-26,Yes,Office,PhD,83
+1586,Priya Khan,,Male,Web,Pune,14,1650000.0,140000,3.9,90.0,11,2024-12-02,Yes,Hybrid,BCA,78
+1587,Kavya Singh,35.0,Male,DevOps,Ahmedabad,7,1330000.0,75000,4.5,82.0,13,2021-02-20,Yes,Office,M.Tech,68
+1588,Nisha Sharma,23.0,Female,Web,Pune,12,680000.0,115000,4.4,84.0,6,2024-07-28,No,Office,PhD,66
+1589,Harsh Gupta,24.0,Female,Data Science,Chennai,4,700000.0,120000,3.9,80.0,13,2023-06-12,No,Remote,BCA,87
+1590,Arjun Khan,25.0,Male,AI,Delhi,13,1660000.0,75000,4.7,78.0,11,2022-12-18,No,Remote,PhD,99
+1591,Aditya Jain,36.0,Female,Data Science,Jaipur,8,1170000.0,135000,4.8,76.0,9,2021-10-10,Yes,Hybrid,BCA,86
+1592,Rohan Verma,,Male,AI,Pune,7,540000.0,145000,3.8,98.0,16,2018-12-19,No,Hybrid,BCA,89
+1593,Rohan Singh,29.0,Female,Web,Bhopal,12,1280000.0,50000,3.5,95.0,1,2022-10-01,Yes,Office,BCA,65
+1594,Dev Gupta,35.0,Male,Web,Hyderabad,1,1110000.0,95000,4.3,100.0,6,2021-03-13,No,Office,B.Tech,98
+1595,Aditya Sharma,27.0,Male,AI,Delhi,14,1490000.0,105000,4.6,83.0,11,2023-09-20,Yes,Remote,PhD,78
+1596,Yash Patel,36.0,Female,Web,Bangalore,10,1290000.0,125000,4.1,85.0,18,2020-11-19,Yes,Office,MCA,76
+1597,Yash Sharma,40.0,Male,DevOps,Ahmedabad,10,1330000.0,110000,4.5,84.0,6,2022-01-24,No,Office,MCA,86
+1598,Karan Patel,22.0,Male,DevOps,Hyderabad,3,1700000.0,55000,3.9,87.0,6,2021-06-09,Yes,Office,MCA,95
+1599,Arjun Gupta,28.0,Female,ML,Chennai,12,1160000.0,120000,3.9,96.0,6,2019-07-12,Yes,Hybrid,BCA,60
+1600,Priya Patel,32.0,Male,DevOps,Ahmedabad,0,700000.0,80000,4.4,88.0,14,2023-12-10,Yes,Hybrid,PhD,75
+1601,Yash Singh,37.0,Male,AI,Chennai,6,500000.0,180000,4.8,92.0,7,2018-10-24,No,Remote,BCA,64
+1602,Priya Gupta,28.0,Male,Data Science,Delhi,10,1580000.0,55000,4.6,91.0,14,2018-10-15,No,Hybrid,B.Tech,86
+1603,Arjun Jain,39.0,Female,Web,Mumbai,1,510000.0,145000,4.7,100.0,4,2021-01-28,Yes,Hybrid,PhD,67
+1604,Nisha Khan,33.0,Male,ML,Indore,2,810000.0,125000,4.6,78.0,10,2022-02-20,No,Hybrid,MCA,76
+1605,Sneha Verma,23.0,Female,Web,Chennai,9,1180000.0,135000,,93.0,10,2020-06-10,Yes,Office,M.Tech,69
+1606,Harsh Jain,34.0,Female,Web,Ahmedabad,11,520000.0,100000,4.2,75.0,6,2025-02-01,No,Office,M.Tech,97
+1607,Rohan Singh,32.0,Male,ML,Bangalore,0,1690000.0,140000,4.8,90.0,8,2024-07-02,Yes,Hybrid,PhD,67
+1608,Diya Gupta,33.0,Male,ML,Jaipur,6,480000.0,90000,4.7,91.0,3,2021-01-29,No,Office,PhD,94
+1609,Yash Patel,23.0,Male,DevOps,Hyderabad,7,1080000.0,95000,4.6,95.0,18,2024-09-25,No,Remote,M.Tech,64
+1610,Rohan Patel,26.0,Female,Data Science,Chennai,1,1030000.0,190000,4.6,78.0,3,2020-07-30,No,Remote,B.Tech,94
+1611,Rahul Khan,37.0,Female,DevOps,Hyderabad,14,1550000.0,80000,3.4,99.0,16,2017-01-03,Yes,Hybrid,PhD,90
+1612,Sneha Gupta,31.0,Male,ML,Jaipur,3,1080000.0,160000,4.4,95.0,16,2025-06-27,No,Remote,M.Tech,64
+1613,Isha Verma,31.0,Female,ML,Jaipur,7,1580000.0,50000,4.4,81.0,16,2019-05-24,Yes,Office,BCA,99
+1614,Aisha Khan,26.0,Female,ML,Bangalore,15,1460000.0,120000,4.7,80.0,9,2024-04-30,No,Hybrid,BCA,69
+1615,Kavya Jain,33.0,Male,Web,Hyderabad,1,1530000.0,145000,4.6,,1,2021-08-02,Yes,Remote,BCA,78
+1616,Ananya Sharma,22.0,Male,AI,Indore,14,1420000.0,180000,4.2,81.0,16,2020-01-28,No,Remote,MCA,91
+1617,Rohan Singh,40.0,Female,AI,Pune,15,590000.0,55000,3.7,84.0,19,2018-07-05,No,Office,M.Tech,95
+1618,Yash Jain,29.0,Male,AI,Indore,10,1110000.0,40000,4.7,79.0,15,2021-01-19,Yes,Hybrid,BCA,81
+1619,Diya Verma,30.0,Female,Data Science,Ahmedabad,1,500000.0,175000,4.4,100.0,14,2022-12-05,Yes,Office,BCA,94
+1620,Yash Verma,40.0,Male,Data Science,Bhopal,2,640000.0,70000,5.0,92.0,9,2023-06-09,No,Hybrid,M.Tech,81
+1621,Priya Singh,40.0,Female,AI,Hyderabad,0,1550000.0,140000,3.9,94.0,8,2017-02-04,No,Office,MCA,72
+1622,Vikram Verma,40.0,Female,Data Science,Indore,1,840000.0,25000,3.5,78.0,11,2025-09-28,Yes,Office,M.Tech,72
+1623,Yash Khan,35.0,Male,Web,Delhi,12,1000000.0,55000,3.2,89.0,15,2017-04-15,No,Hybrid,M.Tech,73
+1624,Aisha Singh,40.0,Female,Web,Bangalore,3,890000.0,85000,4.2,80.0,7,2022-06-27,Yes,Office,BCA,90
+1625,Rohan Gupta,25.0,Female,AI,Mumbai,11,,130000,4.0,78.0,13,2020-06-23,No,Remote,BCA,80
+1626,Isha Singh,29.0,Female,AI,Bhopal,6,770000.0,35000,3.5,76.0,6,2025-04-19,Yes,Office,M.Tech,71
+1627,Aarav Singh,25.0,Male,Web,Delhi,0,,120000,3.9,83.0,5,2025-10-14,No,Remote,PhD,84
+1628,Meera Khan,38.0,Female,AI,Ahmedabad,15,480000.0,55000,3.6,77.0,1,2022-03-18,No,Hybrid,MCA,76
+1629,Vikram Khan,39.0,Male,AI,Mumbai,7,690000.0,60000,4.5,81.0,4,2022-10-10,No,Hybrid,PhD,66
+1630,Vikram Singh,30.0,Female,ML,Pune,8,1220000.0,185000,5.0,91.0,19,2025-07-10,Yes,Office,MCA,100
+1631,Nisha Gupta,28.0,Female,AI,Ahmedabad,0,,120000,4.7,87.0,13,2023-06-02,No,Remote,MCA,99
+1632,Ritika Gupta,36.0,Male,ML,Jaipur,15,1760000.0,125000,3.8,83.0,9,2025-08-29,Yes,Hybrid,MCA,61
+1633,Meera Verma,26.0,Male,DevOps,Pune,9,1620000.0,130000,3.4,79.0,13,2022-01-28,Yes,Remote,M.Tech,61
+1634,Sneha Sharma,33.0,Male,DevOps,Bangalore,5,1790000.0,185000,4.2,97.0,5,2021-03-14,No,Remote,BCA,63
+1635,Rahul Jain,34.0,Female,AI,Ahmedabad,0,1780000.0,115000,4.8,79.0,20,2017-11-03,Yes,Remote,MCA,68
+1636,Vikram Gupta,27.0,Male,DevOps,Pune,7,850000.0,40000,3.9,86.0,7,2020-02-06,No,Remote,BCA,80
+1637,Ananya Verma,,Female,AI,Mumbai,9,1790000.0,160000,4.3,96.0,11,2026-03-22,No,Remote,MCA,76
+1638,Nisha Khan,36.0,Female,Web,Delhi,7,1690000.0,135000,3.6,98.0,4,2024-06-16,No,Office,BCA,76
+1639,Nisha Patel,32.0,Female,ML,Mumbai,7,1090000.0,175000,3.3,100.0,16,2023-07-28,No,Office,PhD,84
+1640,Diya Singh,25.0,Female,Web,Ahmedabad,12,750000.0,150000,3.6,97.0,17,2025-01-21,Yes,Hybrid,MCA,61
+1641,Kavya Singh,27.0,Male,ML,Chennai,8,1290000.0,165000,4.9,98.0,2,2021-01-08,No,Hybrid,BCA,70
+1642,Ritika Jain,39.0,Male,ML,Hyderabad,11,1340000.0,125000,3.5,77.0,4,2023-11-30,Yes,Office,MCA,80
+1643,Aarav Sharma,27.0,Male,DevOps,Hyderabad,5,1690000.0,70000,4.7,99.0,17,2020-08-15,No,Office,PhD,71
+1644,Ananya Khan,24.0,Female,DevOps,Ahmedabad,4,1480000.0,145000,3.5,86.0,3,2021-04-27,No,Remote,MCA,62
+1645,Aarav Singh,26.0,Male,Data Science,Ahmedabad,6,,160000,4.5,82.0,16,2018-08-19,No,Hybrid,PhD,95
+1646,Rahul Gupta,28.0,Female,ML,Bangalore,11,1770000.0,100000,4.3,87.0,11,2026-01-04,No,Remote,M.Tech,80
+1647,Ritika Khan,29.0,Male,Web,Hyderabad,11,1740000.0,90000,4.2,94.0,19,2025-01-18,Yes,Hybrid,PhD,88
+1648,Vikram Sharma,35.0,Female,Data Science,Hyderabad,11,880000.0,35000,,95.0,19,2022-05-07,No,Office,B.Tech,98
+1649,Ritika Jain,26.0,Female,Data Science,Ahmedabad,13,1600000.0,180000,4.5,82.0,2,2018-08-14,No,Office,B.Tech,64
+1650,Nisha Jain,38.0,Male,ML,Mumbai,0,940000.0,75000,4.3,80.0,4,2024-04-13,No,Office,MCA,86
+1651,Rahul Gupta,37.0,Male,AI,Indore,2,910000.0,175000,3.8,83.0,3,2019-01-26,No,Hybrid,B.Tech,93
+1652,Aarav Khan,23.0,Female,Data Science,Pune,12,690000.0,120000,4.9,75.0,7,2020-06-08,No,Remote,PhD,73
+1653,Yash Sharma,25.0,Male,DevOps,Mumbai,4,900000.0,180000,4.5,80.0,10,2026-02-18,No,Remote,BCA,71
+1654,Yash Sharma,27.0,Male,ML,Bangalore,12,840000.0,195000,4.9,96.0,12,2025-10-17,Yes,Remote,MCA,72
+1655,Aditya Verma,23.0,Female,DevOps,Bangalore,2,1670000.0,50000,4.8,93.0,10,2024-06-10,No,Remote,MCA,72
+1656,Isha Khan,35.0,Male,DevOps,Delhi,9,660000.0,140000,4.1,90.0,7,2022-08-01,Yes,Hybrid,PhD,96
+1657,Harsh Verma,32.0,Male,DevOps,Indore,13,570000.0,35000,3.9,92.0,2,2025-04-14,Yes,Remote,MCA,71
+1658,Ananya Singh,32.0,Male,AI,Indore,6,1710000.0,140000,4.4,,6,2024-09-24,No,Remote,BCA,85
+1659,Rahul Gupta,26.0,Male,Web,Bhopal,6,1110000.0,115000,4.0,95.0,13,2024-04-30,No,Remote,MCA,76
+1660,Nisha Sharma,34.0,Male,DevOps,Indore,5,1590000.0,55000,4.4,78.0,6,2025-11-15,No,Office,MCA,78
+1661,Vikram Verma,31.0,Male,Web,Chennai,15,750000.0,195000,4.8,77.0,4,2019-04-03,Yes,Remote,B.Tech,84
+1662,Karan Jain,24.0,Female,Data Science,Ahmedabad,6,1390000.0,180000,3.5,76.0,1,2025-08-14,Yes,Hybrid,BCA,71
+1663,Yash Sharma,28.0,Female,Data Science,Bangalore,10,840000.0,80000,4.1,95.0,20,2024-05-19,No,Office,M.Tech,69
+1664,Vikram Sharma,32.0,Male,Data Science,Bhopal,11,610000.0,120000,4.2,80.0,1,2017-06-07,Yes,Hybrid,PhD,67
+1665,Priya Jain,23.0,Female,DevOps,Hyderabad,12,,110000,4.1,87.0,12,2022-01-16,No,Hybrid,M.Tech,89
+1666,Isha Patel,33.0,Male,Web,Bhopal,0,890000.0,135000,3.9,80.0,18,2021-11-04,Yes,Hybrid,M.Tech,100
+1667,Arjun Patel,34.0,Male,AI,Bangalore,10,1620000.0,125000,4.0,86.0,7,2024-06-18,Yes,Office,PhD,83
+1668,Aisha Gupta,39.0,Male,AI,Bangalore,9,1230000.0,160000,3.5,95.0,11,2025-09-08,Yes,Office,MCA,93
+1669,Karan Patel,36.0,Female,ML,Chennai,12,1430000.0,65000,3.5,96.0,8,2023-06-14,Yes,Hybrid,BCA,99
+1670,Kavya Patel,38.0,Male,AI,Hyderabad,2,610000.0,125000,3.2,76.0,3,2020-07-07,No,Office,BCA,97
+1671,Ritika Verma,36.0,Female,AI,Jaipur,13,890000.0,70000,3.4,79.0,18,2018-05-01,No,Office,BCA,75
+1672,Dev Verma,26.0,Male,Web,Delhi,11,550000.0,25000,3.9,80.0,16,2021-12-12,No,Hybrid,B.Tech,83
+1673,Rohan Singh,26.0,Female,Data Science,Ahmedabad,9,830000.0,120000,4.9,81.0,19,2024-12-23,No,Remote,BCA,76
+1674,Rahul Jain,30.0,Female,Data Science,Indore,10,870000.0,155000,3.6,89.0,18,2017-06-15,Yes,Remote,PhD,60
+1675,Harsh Khan,22.0,Female,Web,Indore,10,1650000.0,140000,3.3,97.0,5,2021-02-11,No,Office,BCA,95
+1676,Vikram Khan,31.0,Male,AI,Mumbai,3,1600000.0,180000,3.4,85.0,6,2017-04-05,No,Remote,M.Tech,96
+1677,Yash Jain,24.0,Female,Data Science,Ahmedabad,4,,40000,,94.0,4,2023-07-15,Yes,Office,M.Tech,72
+1678,Rohan Gupta,24.0,Female,DevOps,Bangalore,1,680000.0,85000,,82.0,16,2025-01-15,Yes,Office,MCA,98
+1679,Dev Patel,37.0,Male,Data Science,Bangalore,4,600000.0,100000,4.1,81.0,6,2023-01-30,No,Remote,M.Tech,85
+1680,Rahul Singh,40.0,Male,Data Science,Delhi,0,1740000.0,95000,3.6,86.0,3,2024-05-06,No,Hybrid,B.Tech,99
+1681,Aisha Jain,35.0,Male,DevOps,Hyderabad,11,1590000.0,120000,,77.0,11,2024-10-30,No,Hybrid,MCA,83
+1682,Arjun Gupta,37.0,Female,Web,Pune,14,930000.0,165000,3.5,88.0,5,2020-08-21,No,Hybrid,B.Tech,68
+1683,Aarav Gupta,34.0,Female,AI,Hyderabad,6,480000.0,75000,4.7,79.0,11,2018-01-24,Yes,Remote,MCA,85
+1684,Ananya Sharma,39.0,Female,Web,Ahmedabad,1,1690000.0,175000,4.1,80.0,10,2020-12-18,Yes,Remote,PhD,91
+1685,Vikram Verma,35.0,Female,ML,Indore,3,,155000,3.5,96.0,5,2023-09-20,No,Office,MCA,64
+1686,Aditya Verma,,Female,AI,Pune,8,980000.0,170000,4.4,85.0,11,2023-03-24,Yes,Office,PhD,99
+1687,Nisha Gupta,29.0,Female,Data Science,Chennai,2,490000.0,120000,4.8,79.0,13,2022-12-08,Yes,Hybrid,M.Tech,83
+1688,Aditya Verma,23.0,Male,AI,Ahmedabad,10,450000.0,105000,4.7,79.0,20,2022-06-09,Yes,Hybrid,B.Tech,72
+1689,Isha Sharma,38.0,Male,Web,Mumbai,6,1410000.0,100000,4.7,,12,2018-08-14,No,Remote,MCA,100
+1690,Dev Patel,27.0,Female,Data Science,Mumbai,9,720000.0,165000,4.0,94.0,2,2018-10-30,No,Office,MCA,83
+1691,Dev Sharma,34.0,Male,AI,Chennai,10,1270000.0,110000,3.8,76.0,3,2023-05-06,Yes,Remote,M.Tech,66
+1692,Meera Jain,29.0,Female,AI,Jaipur,1,1360000.0,145000,3.9,90.0,3,2022-11-20,Yes,Hybrid,M.Tech,67
+1693,Priya Patel,30.0,Male,DevOps,Indore,7,510000.0,30000,4.7,76.0,11,2025-07-04,No,Office,MCA,61
+1694,Dev Gupta,31.0,Male,ML,Mumbai,6,,30000,3.9,81.0,19,2019-07-30,No,Office,M.Tech,85
+1695,Aditya Singh,39.0,Female,Data Science,Hyderabad,10,1170000.0,100000,3.9,81.0,15,2019-03-13,Yes,Hybrid,PhD,92
+1696,Isha Singh,28.0,Female,Data Science,Bangalore,6,1440000.0,115000,4.5,81.0,19,2023-08-27,No,Remote,PhD,61
+1697,Nisha Verma,28.0,Female,AI,Mumbai,5,970000.0,145000,4.5,89.0,20,2022-07-07,Yes,Remote,B.Tech,99
+1698,Karan Gupta,22.0,Female,Data Science,Hyderabad,11,1220000.0,35000,4.5,78.0,14,2019-06-01,Yes,Hybrid,B.Tech,67
+1699,Aarav Sharma,30.0,Male,AI,Chennai,15,970000.0,25000,4.3,100.0,19,2018-12-17,No,Hybrid,B.Tech,96
+1700,Dev Sharma,26.0,Male,ML,Hyderabad,5,1410000.0,150000,,89.0,16,2017-02-24,Yes,Hybrid,B.Tech,77
+1701,Priya Jain,28.0,Male,ML,Indore,15,450000.0,195000,3.3,88.0,3,2025-11-18,No,Hybrid,MCA,94
+1702,Nisha Jain,33.0,Female,ML,Bhopal,4,1330000.0,110000,4.2,86.0,3,2026-02-18,No,Remote,BCA,82
+1703,Dev Patel,36.0,Male,Web,Mumbai,5,1320000.0,125000,4.7,94.0,14,2025-12-16,Yes,Office,PhD,62
+1704,Kavya Verma,40.0,Female,DevOps,Bhopal,10,870000.0,55000,4.4,90.0,8,2025-03-17,No,Office,MCA,66
+1705,Rohan Jain,36.0,Female,AI,Bhopal,15,930000.0,50000,4.8,100.0,10,2018-08-15,Yes,Office,B.Tech,72
+1706,Kavya Jain,,Female,Data Science,Ahmedabad,3,980000.0,160000,4.6,83.0,10,2021-09-25,No,Hybrid,BCA,73
+1707,Nisha Khan,40.0,Female,DevOps,Mumbai,8,550000.0,25000,5.0,86.0,14,2024-11-09,No,Office,MCA,61
+1708,Aditya Patel,37.0,Female,Data Science,Indore,12,680000.0,165000,4.5,78.0,10,2025-05-27,No,Remote,PhD,86
+1709,Dev Sharma,26.0,Female,AI,Chennai,1,1580000.0,140000,3.5,93.0,10,2019-11-04,Yes,Remote,BCA,98
+1710,Isha Patel,25.0,Male,ML,Ahmedabad,12,640000.0,75000,4.1,,16,2017-06-29,Yes,Office,MCA,67
+1711,Ritika Sharma,26.0,Female,Web,Delhi,11,510000.0,185000,3.9,75.0,9,2024-02-14,No,Office,MCA,64
+1712,Dev Patel,30.0,Male,Web,Jaipur,5,1740000.0,25000,4.8,78.0,12,2017-12-20,No,Hybrid,B.Tech,71
+1713,Harsh Jain,25.0,Female,DevOps,Jaipur,0,820000.0,35000,4.5,86.0,1,2018-04-07,No,Remote,BCA,75
+1714,Vikram Khan,28.0,Male,Data Science,Chennai,2,1670000.0,190000,3.4,95.0,17,2018-08-22,Yes,Office,M.Tech,75
+1715,Kavya Gupta,35.0,Female,DevOps,Bangalore,0,1120000.0,145000,4.6,85.0,5,2019-02-28,No,Office,PhD,86
+1716,Vikram Khan,27.0,Male,ML,Hyderabad,2,1180000.0,40000,3.3,88.0,13,2024-11-25,No,Hybrid,BCA,79
+1717,Aditya Sharma,32.0,Female,ML,Jaipur,4,1650000.0,195000,3.9,97.0,17,2022-04-07,Yes,Hybrid,BCA,77
+1718,Meera Singh,38.0,Female,DevOps,Bhopal,10,1270000.0,80000,4.2,84.0,7,2022-10-22,Yes,Office,BCA,72
+1719,Aditya Patel,33.0,Female,ML,Bangalore,6,1630000.0,95000,3.5,84.0,13,2023-09-16,No,Office,BCA,96
+1720,Rahul Gupta,32.0,Female,DevOps,Ahmedabad,2,630000.0,20000,4.9,87.0,9,2019-02-13,No,Remote,BCA,63
+1721,Rahul Sharma,37.0,Female,AI,Mumbai,1,1440000.0,35000,3.5,99.0,14,2017-10-15,Yes,Remote,PhD,63
+1722,Vikram Sharma,,Female,AI,Pune,11,1150000.0,105000,3.6,94.0,13,2019-08-27,Yes,Office,PhD,61
+1723,Rahul Sharma,24.0,Male,AI,Hyderabad,5,760000.0,70000,4.7,89.0,14,2019-06-22,No,Hybrid,M.Tech,74
+1724,Rahul Patel,24.0,Female,Web,Jaipur,0,1580000.0,140000,4.8,99.0,11,2023-01-27,No,Remote,MCA,92
+1725,Aditya Singh,36.0,Female,ML,Bangalore,6,640000.0,145000,4.5,100.0,10,2019-06-12,Yes,Hybrid,PhD,90
+1726,Nisha Gupta,40.0,Female,Web,Mumbai,12,610000.0,135000,4.6,86.0,14,2017-03-25,No,Hybrid,M.Tech,77
+1727,Kavya Sharma,30.0,Male,Data Science,Pune,1,1010000.0,80000,4.4,100.0,3,2021-04-12,Yes,Hybrid,B.Tech,93
+1728,Rohan Verma,36.0,Male,DevOps,Pune,2,1560000.0,70000,4.8,84.0,10,2019-08-08,No,Hybrid,M.Tech,75
+1729,Yash Verma,,Female,AI,Pune,3,640000.0,190000,3.4,80.0,18,2025-09-27,Yes,Remote,B.Tech,80
+1730,Rahul Gupta,30.0,Male,Web,Pune,11,590000.0,95000,3.5,79.0,4,2023-06-09,Yes,Remote,PhD,62
+1731,Yash Jain,34.0,Female,DevOps,Ahmedabad,12,,195000,4.6,87.0,13,2022-11-21,No,Office,MCA,70
+1732,Isha Singh,37.0,Male,ML,Chennai,12,970000.0,150000,5.0,78.0,7,2021-03-20,Yes,Remote,MCA,100
+1733,Yash Jain,36.0,Female,ML,Bangalore,15,1220000.0,100000,3.5,89.0,15,2021-06-24,Yes,Hybrid,B.Tech,75
+1734,Harsh Verma,25.0,Female,Data Science,Chennai,9,1340000.0,40000,3.9,88.0,3,2020-12-24,No,Hybrid,M.Tech,79
+1735,Yash Gupta,27.0,Female,DevOps,Chennai,11,820000.0,85000,4.2,91.0,12,2017-04-09,No,Hybrid,BCA,63
+1736,Arjun Singh,40.0,Female,ML,Pune,2,1690000.0,180000,4.1,92.0,5,2018-09-21,Yes,Remote,PhD,84
+1737,Dev Singh,29.0,Male,Data Science,Mumbai,13,480000.0,65000,3.6,88.0,6,2023-02-19,Yes,Hybrid,MCA,64
+1738,Ritika Verma,27.0,Female,ML,Jaipur,8,1620000.0,170000,3.8,86.0,5,2023-06-22,No,Office,M.Tech,74
+1739,Vikram Verma,35.0,Male,AI,Bangalore,8,1750000.0,115000,5.0,76.0,15,2018-03-13,Yes,Remote,PhD,92
+1740,Meera Gupta,34.0,Female,AI,Bhopal,10,1210000.0,40000,3.5,96.0,16,2017-08-22,Yes,Hybrid,BCA,67
+1741,Sneha Verma,37.0,Female,DevOps,Bhopal,5,1460000.0,95000,3.9,84.0,3,2020-10-08,Yes,Remote,B.Tech,60
+1742,Kavya Jain,35.0,Male,Data Science,Pune,11,830000.0,110000,3.2,79.0,10,2024-08-12,No,Remote,B.Tech,97
+1743,Isha Verma,23.0,Male,DevOps,Hyderabad,8,940000.0,50000,4.8,90.0,5,2023-08-28,Yes,Hybrid,PhD,76
+1744,Yash Singh,38.0,Female,ML,Bhopal,15,1020000.0,70000,3.3,96.0,14,2026-02-01,Yes,Hybrid,BCA,73
+1745,Rohan Singh,26.0,Female,ML,Ahmedabad,4,600000.0,60000,3.4,89.0,8,2025-02-08,No,Hybrid,MCA,67
+1746,Diya Sharma,39.0,Female,Web,Pune,11,980000.0,80000,4.4,87.0,16,2017-09-28,No,Office,MCA,80
+1747,Aditya Patel,32.0,Male,AI,Bangalore,2,920000.0,150000,,83.0,17,2022-06-18,No,Hybrid,M.Tech,71
+1748,Aditya Jain,22.0,Female,DevOps,Bhopal,6,1400000.0,80000,3.4,91.0,17,2018-08-29,Yes,Hybrid,B.Tech,89
+1749,Meera Gupta,40.0,Male,ML,Ahmedabad,15,1610000.0,40000,3.8,95.0,8,2026-04-21,No,Hybrid,BCA,62
+1750,Meera Sharma,40.0,Male,ML,Jaipur,12,460000.0,95000,3.3,89.0,18,2017-01-10,No,Remote,PhD,100
+1751,Ritika Jain,23.0,Male,Data Science,Bhopal,10,990000.0,140000,4.2,82.0,3,2018-12-27,No,Office,M.Tech,90
+1752,Sneha Singh,,Male,ML,Hyderabad,6,1110000.0,155000,3.7,80.0,18,2025-03-06,Yes,Remote,M.Tech,67
+1753,Ananya Gupta,22.0,Female,Data Science,Indore,14,1140000.0,180000,3.4,78.0,3,2022-09-24,No,Remote,MCA,72
+1754,Kavya Sharma,30.0,Female,Web,Bhopal,6,670000.0,190000,3.5,91.0,4,2022-05-15,No,Remote,M.Tech,72
+1755,Kavya Patel,37.0,Male,Data Science,Chennai,12,1030000.0,165000,4.9,92.0,7,2020-08-12,Yes,Office,BCA,61
+1756,Vikram Gupta,33.0,Female,DevOps,Jaipur,3,460000.0,185000,4.8,78.0,11,2023-08-26,Yes,Office,B.Tech,100
+1757,Rahul Singh,31.0,Female,Data Science,Jaipur,12,720000.0,100000,3.7,79.0,12,2018-09-19,Yes,Hybrid,BCA,79
+1758,Rahul Khan,22.0,Female,ML,Mumbai,3,680000.0,135000,4.9,78.0,6,2018-01-25,Yes,Office,B.Tech,74
+1759,Rohan Jain,31.0,Female,ML,Delhi,9,1210000.0,30000,4.4,87.0,5,2021-09-18,Yes,Remote,PhD,60
+1760,Sneha Patel,37.0,Male,Data Science,Chennai,2,1370000.0,95000,3.4,92.0,7,2020-09-30,Yes,Remote,PhD,75
+1761,Harsh Singh,22.0,Female,AI,Bhopal,6,930000.0,140000,3.6,94.0,19,2026-04-03,No,Office,BCA,77
+1762,Vikram Verma,25.0,Male,DevOps,Mumbai,8,1720000.0,80000,,93.0,8,2024-10-02,Yes,Office,B.Tech,74
+1763,Aarav Gupta,23.0,Male,ML,Bangalore,3,790000.0,85000,3.7,75.0,15,2026-04-23,Yes,Remote,B.Tech,83
+1764,Priya Gupta,35.0,Female,ML,Bhopal,11,1150000.0,140000,3.6,81.0,2,2019-02-10,No,Remote,MCA,89
+1765,Aarav Gupta,23.0,Male,DevOps,Chennai,13,970000.0,75000,4.8,83.0,12,2025-08-17,No,Office,M.Tech,88
+1766,Priya Verma,30.0,Male,Data Science,Hyderabad,15,1140000.0,95000,3.6,75.0,12,2021-04-25,No,Office,B.Tech,77
+1767,Ritika Khan,38.0,Male,Web,Jaipur,7,500000.0,100000,4.9,84.0,1,2025-07-01,Yes,Remote,BCA,95
+1768,Arjun Jain,32.0,Female,Data Science,Bhopal,6,920000.0,105000,3.8,83.0,16,2024-01-20,Yes,Remote,BCA,62
+1769,Vikram Patel,33.0,Female,Data Science,Bangalore,3,1300000.0,40000,4.0,97.0,15,2023-05-04,No,Office,B.Tech,66
+1770,Rahul Jain,39.0,Female,AI,Mumbai,13,1010000.0,20000,3.6,83.0,11,2018-05-08,Yes,Office,B.Tech,65
+1771,Meera Singh,39.0,Male,Data Science,Jaipur,6,1150000.0,175000,4.4,75.0,19,2025-12-04,Yes,Office,BCA,60
+1772,Sneha Khan,33.0,Male,AI,Delhi,8,870000.0,25000,,95.0,6,2019-02-28,Yes,Remote,M.Tech,68
+1773,Rohan Khan,23.0,Male,Web,Bhopal,13,790000.0,115000,4.5,86.0,1,2018-09-23,Yes,Hybrid,B.Tech,94
+1774,Harsh Jain,35.0,Female,Web,Pune,8,850000.0,70000,3.5,82.0,20,2025-01-02,Yes,Hybrid,MCA,71
+1775,Ritika Gupta,36.0,Male,DevOps,Mumbai,9,990000.0,145000,4.6,81.0,5,2021-03-19,Yes,Remote,PhD,67
+1776,Ritika Verma,34.0,Male,ML,Jaipur,2,910000.0,180000,3.6,76.0,18,2019-09-17,Yes,Hybrid,BCA,81
+1777,Yash Sharma,27.0,Female,DevOps,Mumbai,4,970000.0,185000,4.6,77.0,11,2024-01-04,No,Remote,BCA,81
+1778,Karan Gupta,,Male,Web,Jaipur,2,510000.0,45000,4.5,80.0,12,2024-09-18,Yes,Office,PhD,61
+1779,Ritika Khan,33.0,Male,DevOps,Ahmedabad,5,740000.0,100000,4.1,84.0,18,2017-12-15,No,Hybrid,MCA,93
+1780,Aarav Sharma,24.0,Male,Data Science,Hyderabad,13,1180000.0,30000,4.6,90.0,8,2022-03-30,No,Hybrid,BCA,65
+1781,Kavya Jain,38.0,Male,ML,Hyderabad,7,1480000.0,105000,3.4,100.0,6,2020-08-10,No,Office,B.Tech,95
+1782,Aisha Khan,37.0,Male,AI,Mumbai,0,1060000.0,130000,4.7,94.0,2,2025-08-30,No,Remote,B.Tech,85
+1783,Priya Verma,38.0,Male,Web,Bangalore,15,460000.0,75000,4.5,95.0,17,2022-08-04,Yes,Hybrid,BCA,75
+1784,Sneha Sharma,24.0,Male,Web,Pune,13,1200000.0,115000,4.1,96.0,12,2020-05-03,No,Remote,B.Tech,79
+1785,Kavya Khan,30.0,Female,Data Science,Pune,11,550000.0,70000,3.7,87.0,13,2025-06-01,Yes,Office,BCA,81
+1786,Dev Khan,27.0,Male,AI,Mumbai,9,500000.0,105000,4.0,100.0,12,2022-10-03,Yes,Office,PhD,93
+1787,Diya Khan,30.0,Female,AI,Bangalore,1,790000.0,125000,4.7,97.0,7,2020-04-01,Yes,Hybrid,M.Tech,93
+1788,Ananya Verma,32.0,Male,DevOps,Bangalore,14,1010000.0,165000,4.7,97.0,8,2025-02-02,Yes,Office,M.Tech,91
+1789,Aditya Gupta,34.0,Male,Web,Jaipur,15,550000.0,180000,4.7,77.0,14,2025-07-04,Yes,Remote,M.Tech,73
+1790,Nisha Jain,22.0,Female,ML,Hyderabad,12,1510000.0,95000,3.4,75.0,20,2020-09-29,Yes,Office,MCA,60
+1791,Ritika Singh,28.0,Male,AI,Bhopal,9,1330000.0,55000,3.3,77.0,17,2018-03-22,No,Hybrid,B.Tech,97
+1792,Aditya Singh,35.0,Female,Data Science,Mumbai,14,850000.0,95000,4.3,77.0,9,2020-02-01,Yes,Office,BCA,68
+1793,Diya Verma,35.0,Male,Data Science,Pune,13,500000.0,155000,3.8,87.0,14,2025-11-13,Yes,Remote,M.Tech,63
+1794,Karan Sharma,28.0,Male,AI,Hyderabad,2,670000.0,165000,4.6,96.0,11,2020-08-05,No,Remote,MCA,92
+1795,Diya Sharma,35.0,Male,ML,Jaipur,8,1690000.0,85000,4.2,94.0,1,2020-04-04,No,Remote,BCA,79
+1796,Aarav Verma,39.0,Male,DevOps,Indore,11,990000.0,50000,3.9,76.0,19,2022-01-24,Yes,Hybrid,BCA,96
+1797,Isha Khan,22.0,Female,Data Science,Jaipur,12,870000.0,150000,4.3,95.0,10,2025-10-03,Yes,Office,BCA,97
+1798,Ananya Patel,40.0,Male,ML,Pune,5,710000.0,80000,4.6,93.0,14,2019-02-19,No,Office,PhD,63
+1799,Karan Singh,22.0,Male,DevOps,Ahmedabad,5,750000.0,160000,4.0,95.0,8,2025-05-28,No,Office,PhD,83
+1800,Dev Verma,38.0,Female,ML,Delhi,3,490000.0,150000,5.0,86.0,18,2018-08-07,Yes,Hybrid,PhD,82
+1801,Ritika Gupta,26.0,Female,Data Science,Pune,6,680000.0,40000,3.9,88.0,7,2017-03-03,No,Office,BCA,67
+1802,Sneha Gupta,28.0,Male,Data Science,Delhi,1,830000.0,105000,4.6,91.0,17,2017-05-01,No,Office,MCA,84
+1803,Rohan Gupta,23.0,Male,DevOps,Hyderabad,0,1440000.0,125000,3.3,94.0,3,2017-07-16,No,Office,PhD,64
+1804,Kavya Patel,32.0,Female,ML,Delhi,4,900000.0,150000,4.1,89.0,16,2017-07-26,No,Hybrid,PhD,78
+1805,Rohan Jain,23.0,Female,Web,Bhopal,0,1480000.0,130000,3.9,79.0,2,2023-03-26,Yes,Office,PhD,64
+1806,Rohan Patel,30.0,Female,ML,Pune,14,1790000.0,80000,3.7,81.0,7,2019-08-09,No,Hybrid,B.Tech,89
+1807,Arjun Sharma,24.0,Male,Web,Bangalore,5,,45000,4.8,78.0,17,2017-01-02,No,Remote,MCA,91
+1808,Sneha Khan,33.0,Female,Data Science,Pune,1,1000000.0,100000,4.8,84.0,13,2025-02-21,No,Office,B.Tech,66
+1809,Nisha Jain,31.0,Male,AI,Mumbai,4,970000.0,50000,4.7,92.0,1,2022-03-13,Yes,Office,B.Tech,91
+1810,Nisha Khan,40.0,Female,AI,Bhopal,10,940000.0,190000,4.9,93.0,8,2025-03-28,Yes,Remote,PhD,71
+1811,Ananya Gupta,32.0,Female,Data Science,Bhopal,13,,175000,4.6,75.0,16,2021-07-08,Yes,Hybrid,PhD,69
+1812,Sneha Sharma,22.0,Female,ML,Delhi,11,1410000.0,90000,3.4,80.0,11,2020-09-05,No,Remote,BCA,85
+1813,Meera Verma,24.0,Female,DevOps,Delhi,8,800000.0,30000,3.9,94.0,6,2019-08-22,Yes,Remote,BCA,62
+1814,Rohan Singh,29.0,Female,Web,Jaipur,2,1090000.0,125000,3.7,94.0,17,2024-04-05,No,Remote,MCA,65
+1815,Yash Singh,27.0,Female,Data Science,Ahmedabad,0,1470000.0,75000,4.1,96.0,3,2023-11-27,No,Hybrid,PhD,94
+1816,Diya Khan,39.0,Female,DevOps,Delhi,6,1560000.0,120000,4.5,79.0,13,2022-07-17,Yes,Office,M.Tech,83
+1817,Ananya Patel,30.0,Female,DevOps,Pune,1,1370000.0,165000,3.9,85.0,11,2017-05-06,No,Hybrid,BCA,71
+1818,Ritika Jain,34.0,Female,Web,Bangalore,4,950000.0,95000,4.7,80.0,7,2024-08-31,Yes,Hybrid,MCA,70
+1819,Sneha Gupta,32.0,Male,AI,Indore,5,1310000.0,140000,4.9,85.0,17,2023-06-16,No,Remote,M.Tech,92
+1820,Aditya Khan,34.0,Female,ML,Hyderabad,0,1700000.0,120000,4.9,92.0,8,2023-11-04,Yes,Remote,BCA,100
+1821,Priya Singh,38.0,Male,Data Science,Indore,10,730000.0,185000,4.3,81.0,7,2023-07-12,No,Hybrid,B.Tech,80
+1822,Harsh Sharma,25.0,Male,Web,Chennai,15,960000.0,150000,4.5,81.0,11,2025-03-01,Yes,Remote,PhD,77
+1823,Dev Verma,26.0,Female,DevOps,Delhi,3,670000.0,185000,3.8,94.0,20,2024-10-22,Yes,Hybrid,B.Tech,77
+1824,Aditya Khan,29.0,Female,Web,Jaipur,13,800000.0,155000,4.2,99.0,15,2017-08-28,No,Hybrid,M.Tech,68
+1825,Harsh Patel,32.0,Female,DevOps,Mumbai,9,1160000.0,120000,3.8,86.0,3,2018-12-30,No,Hybrid,B.Tech,68
+1826,Ananya Khan,22.0,Female,ML,Mumbai,7,1230000.0,40000,3.6,82.0,7,2018-06-22,Yes,Hybrid,BCA,90
+1827,Dev Verma,28.0,Female,AI,Chennai,12,910000.0,185000,3.7,91.0,8,2021-04-30,No,Hybrid,MCA,78
+1828,Karan Khan,26.0,Male,DevOps,Mumbai,2,1760000.0,85000,4.5,84.0,5,2022-11-24,Yes,Remote,M.Tech,72
+1829,Sneha Patel,22.0,Female,ML,Delhi,8,600000.0,150000,3.2,82.0,18,2022-06-29,Yes,Hybrid,MCA,93
+1830,Vikram Gupta,36.0,Male,DevOps,Delhi,8,1340000.0,195000,3.8,86.0,11,2022-06-05,Yes,Office,B.Tech,92
+1831,Nisha Patel,36.0,Male,Web,Bangalore,3,1060000.0,160000,3.9,80.0,7,2024-03-28,No,Office,M.Tech,96
+1832,Meera Khan,27.0,Female,DevOps,Mumbai,5,890000.0,150000,4.9,81.0,10,2018-02-17,Yes,Office,PhD,69
+1833,Meera Sharma,27.0,Female,Web,Chennai,9,1070000.0,195000,4.7,85.0,8,2019-12-29,Yes,Hybrid,BCA,75
+1834,Aisha Khan,40.0,Female,Data Science,Pune,5,1090000.0,55000,4.9,97.0,19,2022-01-05,Yes,Hybrid,B.Tech,70
+1835,Vikram Sharma,29.0,Male,AI,Indore,7,1720000.0,60000,3.6,85.0,13,2018-06-20,Yes,Office,M.Tech,71
+1836,Karan Jain,23.0,Female,DevOps,Indore,14,1700000.0,180000,4.9,91.0,6,2020-12-01,Yes,Office,PhD,85
+1837,Rohan Singh,23.0,Male,AI,Ahmedabad,3,,120000,3.6,77.0,3,2022-03-01,Yes,Remote,PhD,70
+1838,Aisha Khan,40.0,Male,Data Science,Ahmedabad,6,680000.0,180000,4.1,98.0,14,2017-08-21,No,Remote,M.Tech,97
+1839,Vikram Sharma,25.0,Male,DevOps,Mumbai,13,830000.0,165000,3.4,96.0,4,2022-03-27,Yes,Hybrid,MCA,66
+1840,Aisha Jain,27.0,Male,Data Science,Hyderabad,7,530000.0,160000,4.5,91.0,19,2019-03-22,Yes,Hybrid,MCA,81
+1841,Isha Sharma,22.0,Female,DevOps,Pune,3,1220000.0,75000,3.4,84.0,11,2018-01-05,Yes,Office,BCA,68
+1842,Aarav Khan,31.0,Male,DevOps,Ahmedabad,2,940000.0,140000,3.9,98.0,12,2026-02-02,Yes,Office,PhD,91
+1843,Isha Khan,25.0,Male,AI,Delhi,11,750000.0,120000,3.5,92.0,9,2021-05-06,Yes,Office,M.Tech,61
+1844,Aisha Sharma,37.0,Female,Data Science,Bhopal,5,1370000.0,35000,4.1,83.0,14,2023-09-20,Yes,Hybrid,M.Tech,68
+1845,Isha Sharma,31.0,Male,Data Science,Mumbai,7,1110000.0,20000,3.5,95.0,1,2024-11-12,No,Hybrid,MCA,96
+1846,Meera Khan,36.0,Male,AI,Hyderabad,11,1230000.0,130000,3.9,99.0,16,2020-03-13,Yes,Remote,BCA,89
+1847,Yash Gupta,25.0,Female,Data Science,Chennai,7,750000.0,150000,4.1,75.0,6,2018-02-16,No,Office,B.Tech,94
+1848,Diya Gupta,,Male,AI,Jaipur,10,1380000.0,50000,3.5,98.0,2,2024-11-24,No,Hybrid,B.Tech,75
+1849,Arjun Patel,29.0,Male,AI,Delhi,9,570000.0,175000,3.7,83.0,1,2019-03-29,No,Remote,BCA,94
+1850,Karan Verma,33.0,Female,AI,Chennai,10,1540000.0,20000,4.1,92.0,9,2019-03-26,No,Hybrid,MCA,69
+1851,Ananya Singh,40.0,Female,DevOps,Delhi,13,800000.0,145000,4.1,83.0,3,2021-10-10,Yes,Remote,MCA,97
+1852,Dev Khan,36.0,Female,DevOps,Delhi,2,540000.0,95000,,93.0,11,2026-03-15,Yes,Office,B.Tech,80
+1853,Aisha Verma,23.0,Female,AI,Mumbai,12,1730000.0,175000,4.3,94.0,7,2025-10-14,No,Office,MCA,67
+1854,Rahul Patel,34.0,Male,AI,Indore,15,1420000.0,175000,3.5,76.0,14,2023-05-28,Yes,Remote,PhD,97
+1855,Vikram Sharma,40.0,Male,Web,Delhi,13,1590000.0,70000,3.3,83.0,17,2024-05-28,No,Office,M.Tech,66
+1856,Aisha Verma,23.0,Female,AI,Mumbai,7,520000.0,45000,4.4,92.0,3,2021-02-21,No,Remote,PhD,92
+1857,Ananya Gupta,31.0,Female,DevOps,Jaipur,4,630000.0,190000,4.9,84.0,8,2018-10-21,No,Office,BCA,88
+1858,Arjun Verma,39.0,Male,ML,Ahmedabad,5,510000.0,45000,3.3,90.0,13,2019-02-13,Yes,Office,B.Tech,70
+1859,Diya Singh,37.0,Male,DevOps,Indore,15,1530000.0,145000,4.1,99.0,8,2024-06-15,Yes,Hybrid,B.Tech,97
+1860,Arjun Singh,33.0,Male,Web,Ahmedabad,7,1080000.0,195000,3.7,97.0,13,2020-09-27,Yes,Hybrid,B.Tech,98
+1861,Rohan Gupta,31.0,Male,AI,Jaipur,9,1080000.0,160000,4.9,83.0,11,2018-09-14,Yes,Hybrid,M.Tech,70
+1862,Arjun Verma,33.0,Male,DevOps,Delhi,8,1490000.0,90000,4.2,,14,2022-12-30,Yes,Hybrid,MCA,90
+1863,Ananya Verma,38.0,Male,ML,Ahmedabad,6,620000.0,40000,4.3,84.0,6,2026-04-22,Yes,Office,MCA,66
+1864,Aditya Khan,37.0,Male,AI,Indore,3,1320000.0,195000,3.6,85.0,9,2021-06-29,No,Hybrid,M.Tech,76
+1865,Nisha Khan,25.0,Female,Data Science,Jaipur,12,530000.0,150000,4.5,100.0,5,2017-09-16,No,Office,PhD,96
+1866,Ananya Khan,23.0,Male,ML,Ahmedabad,13,1630000.0,105000,3.5,89.0,6,2022-10-19,No,Office,MCA,76
+1867,Rohan Singh,39.0,Female,DevOps,Hyderabad,9,1460000.0,140000,4.2,91.0,11,2024-09-21,Yes,Remote,B.Tech,99
+1868,Rohan Gupta,27.0,Male,Web,Delhi,11,1670000.0,30000,3.6,97.0,8,2018-04-10,No,Remote,MCA,80
+1869,Dev Singh,26.0,Male,ML,Jaipur,0,1110000.0,35000,4.3,75.0,19,2023-08-31,No,Remote,B.Tech,78
+1870,Isha Singh,34.0,Female,ML,Chennai,5,1560000.0,100000,3.9,88.0,15,2017-02-28,No,Office,B.Tech,96
+1871,Kavya Singh,31.0,Female,Web,Pune,7,940000.0,60000,4.6,,6,2025-10-10,No,Hybrid,BCA,63
+1872,Sneha Patel,32.0,Female,AI,Chennai,5,580000.0,70000,,88.0,14,2018-05-01,No,Office,MCA,79
+1873,Harsh Jain,32.0,Female,Data Science,Delhi,8,710000.0,135000,3.7,77.0,18,2022-12-25,Yes,Remote,MCA,97
+1874,Rahul Gupta,34.0,Male,Web,Hyderabad,0,770000.0,160000,3.3,86.0,6,2025-12-29,No,Remote,M.Tech,67
+1875,Ritika Sharma,23.0,Female,DevOps,Indore,12,1030000.0,130000,4.8,88.0,6,2025-06-10,No,Hybrid,PhD,71
+1876,Isha Jain,25.0,Female,ML,Chennai,13,1090000.0,30000,4.6,76.0,11,2019-11-09,Yes,Remote,B.Tech,67
+1877,Yash Khan,28.0,Female,AI,Bangalore,2,1590000.0,175000,4.2,98.0,10,2022-01-21,Yes,Hybrid,M.Tech,61
+1878,Rohan Verma,39.0,Female,AI,Delhi,1,630000.0,190000,3.8,,9,2025-12-26,No,Office,M.Tech,62
+1879,Diya Khan,29.0,Male,DevOps,Mumbai,9,1730000.0,90000,3.7,85.0,13,2017-02-18,No,Hybrid,PhD,78
+1880,Diya Khan,24.0,Male,DevOps,Indore,8,890000.0,100000,3.7,86.0,3,2021-10-18,No,Office,PhD,73
+1881,Aisha Sharma,39.0,Male,DevOps,Chennai,7,,120000,4.6,96.0,17,2024-03-21,No,Office,MCA,99
+1882,Rahul Khan,35.0,Female,AI,Hyderabad,15,600000.0,60000,5.0,97.0,13,2018-03-05,Yes,Remote,B.Tech,98
+1883,Priya Patel,34.0,Male,AI,Mumbai,5,780000.0,160000,4.7,93.0,18,2022-11-06,No,Remote,MCA,70
+1884,Ananya Sharma,40.0,Male,Data Science,Pune,5,1770000.0,85000,4.9,92.0,8,2018-08-20,Yes,Remote,B.Tech,64
+1885,Arjun Sharma,34.0,Male,DevOps,Mumbai,15,740000.0,195000,3.3,94.0,10,2025-01-07,Yes,Hybrid,MCA,65
+1886,Ritika Jain,29.0,Male,AI,Indore,8,1070000.0,170000,3.4,76.0,10,2021-09-21,No,Office,BCA,66
+1887,Rohan Singh,28.0,Male,Data Science,Bhopal,12,1480000.0,125000,3.2,83.0,14,2021-11-28,No,Hybrid,BCA,65
+1888,Yash Verma,34.0,Female,Data Science,Bhopal,0,670000.0,110000,4.5,82.0,20,2026-01-22,No,Office,MCA,62
+1889,Arjun Verma,22.0,Female,Data Science,Jaipur,12,940000.0,140000,4.2,79.0,8,2018-10-15,No,Office,PhD,93
+1890,Yash Khan,40.0,Male,DevOps,Chennai,5,1690000.0,155000,3.3,100.0,13,2021-01-26,Yes,Office,PhD,75
+1891,Isha Sharma,24.0,Male,DevOps,Indore,12,1360000.0,75000,4.9,92.0,5,2017-03-02,Yes,Hybrid,BCA,81
+1892,Rohan Sharma,25.0,Male,ML,Mumbai,5,1190000.0,140000,4.4,84.0,20,2025-10-17,No,Remote,MCA,77
+1893,Ananya Khan,26.0,Female,ML,Indore,8,640000.0,135000,4.7,83.0,16,2018-06-25,Yes,Hybrid,MCA,92
+1894,Arjun Patel,40.0,Female,Web,Hyderabad,2,1380000.0,35000,3.2,98.0,2,2024-02-03,No,Remote,M.Tech,68
+1895,Harsh Patel,37.0,Male,ML,Chennai,15,1280000.0,45000,4.8,76.0,8,2022-11-01,Yes,Remote,MCA,64
+1896,Dev Singh,39.0,Male,DevOps,Pune,2,,35000,4.6,95.0,15,2018-04-21,Yes,Office,B.Tech,80
+1897,Diya Gupta,24.0,Male,Web,Ahmedabad,6,1030000.0,60000,4.8,93.0,11,2017-06-29,Yes,Remote,MCA,76
+1898,Dev Verma,24.0,Male,Web,Indore,14,1280000.0,185000,3.6,100.0,5,2021-08-20,No,Hybrid,MCA,67
+1899,Aditya Sharma,24.0,Male,ML,Jaipur,1,960000.0,40000,4.7,99.0,20,2019-11-23,No,Remote,M.Tech,64
+1900,Harsh Sharma,31.0,Female,ML,Jaipur,4,1370000.0,125000,4.1,82.0,14,2021-09-20,Yes,Office,MCA,88
+1901,Priya Gupta,39.0,Female,Web,Pune,5,1090000.0,115000,4.9,92.0,18,2020-07-26,Yes,Hybrid,BCA,63
+1902,Dev Patel,36.0,Male,DevOps,Delhi,5,1450000.0,145000,4.3,86.0,18,2019-04-24,No,Hybrid,B.Tech,62
+1903,Aisha Jain,31.0,Male,AI,Indore,12,710000.0,165000,3.4,78.0,10,2018-01-24,No,Office,MCA,63
+1904,Rohan Jain,27.0,Male,AI,Chennai,5,1480000.0,45000,3.9,83.0,11,2017-01-03,No,Remote,B.Tech,70
+1905,Aisha Singh,23.0,Male,Web,Hyderabad,14,1310000.0,100000,4.5,86.0,2,2024-02-09,No,Remote,MCA,72
+1906,Isha Jain,36.0,Male,ML,Delhi,0,1380000.0,35000,4.8,77.0,7,2021-05-28,Yes,Remote,BCA,82
+1907,Aisha Sharma,23.0,Male,ML,Ahmedabad,9,1740000.0,190000,5.0,77.0,20,2024-01-12,Yes,Office,BCA,82
+1908,Dev Sharma,29.0,Male,Web,Ahmedabad,15,1320000.0,150000,3.9,76.0,14,2023-05-22,Yes,Remote,PhD,84
+1909,Isha Singh,37.0,Female,AI,Delhi,6,1060000.0,85000,4.1,79.0,1,2023-05-25,No,Hybrid,MCA,84
+1910,Aditya Singh,27.0,Male,Web,Pune,6,1000000.0,175000,3.8,,10,2021-04-04,Yes,Hybrid,PhD,76
+1911,Diya Verma,23.0,Male,Web,Delhi,0,830000.0,40000,3.6,78.0,12,2025-04-08,Yes,Remote,PhD,95
+1912,Aarav Singh,38.0,Female,Web,Indore,4,830000.0,90000,3.4,89.0,19,2023-11-30,No,Hybrid,PhD,71
+1913,Vikram Gupta,40.0,Female,ML,Jaipur,0,1460000.0,75000,4.9,96.0,6,2024-10-14,Yes,Hybrid,MCA,89
+1914,Karan Gupta,26.0,Male,Data Science,Ahmedabad,0,740000.0,195000,3.8,97.0,6,2019-01-12,Yes,Hybrid,PhD,67
+1915,Ritika Verma,37.0,Male,DevOps,Indore,11,690000.0,190000,4.6,81.0,19,2020-09-23,No,Office,MCA,70
+1916,Ritika Gupta,25.0,Male,DevOps,Ahmedabad,6,560000.0,170000,4.6,82.0,16,2017-10-03,Yes,Office,BCA,81
+1917,Karan Verma,31.0,Female,DevOps,Pune,5,1760000.0,35000,4.5,75.0,8,2023-03-08,Yes,Office,M.Tech,63
+1918,Kavya Verma,30.0,Male,Data Science,Pune,2,1160000.0,55000,4.5,91.0,1,2021-09-23,Yes,Remote,M.Tech,63
+1919,Karan Sharma,26.0,Male,DevOps,Mumbai,7,780000.0,50000,4.1,79.0,14,2021-03-08,No,Remote,MCA,76
+1920,Rohan Jain,22.0,Male,AI,Ahmedabad,7,1040000.0,50000,4.0,87.0,3,2018-06-25,No,Office,B.Tech,90
+1921,Aisha Gupta,23.0,Female,AI,Pune,8,1000000.0,190000,4.6,98.0,19,2017-10-01,Yes,Remote,B.Tech,86
+1922,Priya Jain,38.0,Female,AI,Mumbai,1,1390000.0,165000,4.0,87.0,19,2021-04-19,No,Hybrid,BCA,63
+1923,Priya Verma,31.0,Female,ML,Delhi,6,540000.0,115000,4.0,96.0,10,2025-01-16,No,Remote,MCA,72
+1924,Aditya Jain,27.0,Female,ML,Pune,4,750000.0,150000,4.9,100.0,4,2026-04-18,Yes,Office,MCA,98
+1925,Karan Verma,25.0,Female,AI,Pune,8,1060000.0,140000,4.8,96.0,10,2019-06-23,No,Remote,BCA,63
+1926,Harsh Gupta,29.0,Female,Data Science,Indore,11,960000.0,45000,3.3,77.0,9,2024-07-01,No,Hybrid,MCA,96
+1927,Priya Gupta,37.0,Female,DevOps,Chennai,6,1470000.0,125000,4.8,83.0,9,2021-01-16,No,Hybrid,PhD,92
+1928,Aditya Khan,24.0,Female,DevOps,Mumbai,0,1160000.0,190000,3.5,75.0,11,2023-06-04,Yes,Hybrid,PhD,69
+1929,Kavya Khan,33.0,Male,ML,Pune,4,1590000.0,105000,4.7,89.0,13,2019-09-09,Yes,Hybrid,B.Tech,76
+1930,Diya Gupta,40.0,Female,AI,Chennai,6,850000.0,115000,4.7,85.0,8,2025-01-21,Yes,Office,B.Tech,61
+1931,Ritika Singh,25.0,Female,AI,Bangalore,14,1360000.0,195000,3.5,86.0,12,2018-01-14,No,Office,M.Tech,87
+1932,Aditya Jain,38.0,Male,AI,Chennai,13,1720000.0,25000,4.1,80.0,15,2025-12-08,No,Remote,PhD,87
+1933,Vikram Khan,32.0,Female,DevOps,Mumbai,11,1640000.0,30000,,76.0,1,2026-02-22,No,Hybrid,PhD,62
+1934,Aarav Verma,26.0,Female,AI,Ahmedabad,3,900000.0,80000,3.3,89.0,4,2021-10-09,Yes,Hybrid,PhD,100
+1935,Aarav Verma,37.0,Male,DevOps,Chennai,12,950000.0,65000,3.9,97.0,8,2018-12-22,No,Remote,BCA,99
+1936,Isha Singh,28.0,Female,AI,Indore,5,830000.0,80000,4.6,97.0,8,2017-01-06,Yes,Remote,MCA,87
+1937,Nisha Khan,33.0,Male,DevOps,Pune,12,680000.0,75000,4.2,91.0,7,2023-10-23,No,Remote,B.Tech,60
+1938,Meera Jain,26.0,Female,DevOps,Hyderabad,15,1010000.0,45000,4.2,80.0,13,2024-06-21,No,Remote,BCA,88
+1939,Ananya Khan,26.0,Female,ML,Pune,0,1000000.0,180000,5.0,80.0,12,2024-02-13,Yes,Office,M.Tech,71
+1940,Priya Khan,33.0,Female,AI,Mumbai,1,910000.0,135000,4.3,81.0,4,2021-05-15,Yes,Hybrid,MCA,91
+1941,Aarav Jain,29.0,Male,AI,Bhopal,10,1250000.0,195000,4.2,78.0,6,2018-09-01,No,Office,B.Tech,92
+1942,Aditya Singh,34.0,Male,AI,Mumbai,1,1660000.0,170000,3.9,83.0,12,2021-01-20,Yes,Hybrid,BCA,64
+1943,Ritika Gupta,32.0,Female,AI,Delhi,10,490000.0,85000,4.4,87.0,16,2022-01-21,Yes,Remote,B.Tech,76
+1944,Priya Khan,27.0,Female,DevOps,Bhopal,6,1720000.0,40000,4.5,84.0,15,2023-05-31,No,Hybrid,B.Tech,96
+1945,Arjun Jain,37.0,Male,Web,Indore,4,1540000.0,75000,4.1,94.0,19,2021-11-29,No,Office,PhD,86
+1946,Priya Sharma,28.0,Male,Data Science,Pune,10,680000.0,180000,3.9,75.0,4,2019-01-15,Yes,Hybrid,B.Tech,82
+1947,Meera Verma,34.0,Female,Web,Hyderabad,0,1610000.0,35000,3.7,,10,2018-07-29,No,Hybrid,MCA,79
+1948,Diya Sharma,40.0,Female,AI,Indore,8,670000.0,30000,3.6,88.0,11,2020-09-16,Yes,Hybrid,M.Tech,62
+1949,Arjun Patel,34.0,Female,AI,Delhi,4,920000.0,130000,4.0,95.0,12,2023-05-21,No,Office,B.Tech,71
+1950,Aisha Khan,25.0,Female,DevOps,Bhopal,9,1630000.0,120000,3.6,77.0,12,2022-11-19,No,Hybrid,MCA,75
+1951,Dev Verma,32.0,Male,DevOps,Bangalore,3,1190000.0,115000,3.8,77.0,9,2021-06-09,No,Office,MCA,78
+1952,Dev Singh,30.0,Female,AI,Ahmedabad,7,1790000.0,65000,4.7,80.0,16,2017-07-15,Yes,Office,PhD,93
+1953,Sneha Sharma,30.0,Female,Data Science,Chennai,1,710000.0,60000,5.0,89.0,11,2024-10-02,No,Office,BCA,72
+1954,Meera Khan,35.0,Female,Web,Mumbai,8,780000.0,115000,3.4,76.0,5,2023-05-11,Yes,Office,B.Tech,61
+1955,Aditya Verma,33.0,Female,Web,Delhi,12,740000.0,130000,4.8,87.0,18,2019-02-19,No,Remote,PhD,99
+1956,Ritika Verma,24.0,Female,Data Science,Bangalore,2,1210000.0,45000,4.5,82.0,10,2019-07-02,Yes,Remote,MCA,70
+1957,Priya Jain,26.0,Female,DevOps,Bhopal,0,940000.0,50000,3.7,81.0,17,2020-05-18,No,Office,B.Tech,62
+1958,Isha Sharma,32.0,Female,ML,Bangalore,15,1160000.0,45000,4.2,100.0,2,2021-11-30,No,Remote,BCA,63
+1959,Yash Khan,39.0,Female,AI,Bangalore,10,860000.0,145000,4.2,88.0,7,2019-01-13,Yes,Office,M.Tech,99
+1960,Priya Patel,22.0,Female,Web,Chennai,7,,20000,4.2,81.0,15,2017-03-31,Yes,Office,B.Tech,87
+1961,Diya Patel,33.0,Female,ML,Bangalore,7,1540000.0,120000,4.1,99.0,2,2025-05-24,Yes,Remote,M.Tech,97
+1962,Isha Gupta,30.0,Male,DevOps,Delhi,4,520000.0,30000,4.5,79.0,3,2023-01-22,No,Office,M.Tech,70
+1963,Ananya Khan,26.0,Female,Web,Indore,14,1400000.0,190000,4.7,83.0,9,2025-03-08,No,Remote,PhD,98
+1964,Vikram Singh,27.0,Male,AI,Pune,15,1370000.0,65000,3.6,89.0,11,2024-01-21,Yes,Office,BCA,84
+1965,Rohan Khan,39.0,Male,Data Science,Pune,14,1740000.0,80000,3.5,82.0,3,2023-06-07,Yes,Remote,B.Tech,93
+1966,Diya Khan,38.0,Female,ML,Delhi,2,1330000.0,35000,4.2,98.0,8,2022-02-05,Yes,Hybrid,B.Tech,97
+1967,Nisha Gupta,30.0,Female,AI,Bangalore,5,1260000.0,75000,4.8,78.0,18,2018-08-06,No,Remote,M.Tech,61
+1968,Aarav Jain,31.0,Male,AI,Hyderabad,6,1410000.0,140000,4.4,83.0,10,2019-03-11,No,Hybrid,B.Tech,79
+1969,Aisha Jain,38.0,Female,DevOps,Indore,0,1290000.0,70000,,100.0,3,2021-03-13,No,Remote,MCA,91
+1970,Yash Gupta,27.0,Female,ML,Pune,8,980000.0,90000,4.8,88.0,6,2019-01-28,No,Office,M.Tech,61
+1971,Isha Sharma,34.0,Male,ML,Bhopal,4,810000.0,70000,3.4,93.0,7,2023-08-24,Yes,Remote,PhD,80
+1972,Sneha Sharma,40.0,Female,Web,Mumbai,9,1070000.0,75000,4.5,88.0,11,2024-06-13,No,Office,PhD,61
+1973,Ritika Khan,39.0,Male,AI,Mumbai,8,970000.0,30000,3.6,76.0,3,2023-06-09,Yes,Remote,B.Tech,71
+1974,Isha Sharma,33.0,Male,DevOps,Mumbai,15,730000.0,150000,4.2,92.0,17,2021-07-03,No,Hybrid,PhD,94
+1975,Harsh Gupta,31.0,Male,ML,Jaipur,14,450000.0,175000,3.9,91.0,11,2024-02-28,No,Office,MCA,78
+1976,Vikram Jain,34.0,Female,AI,Pune,3,750000.0,75000,4.5,96.0,3,2023-11-06,Yes,Remote,B.Tech,79
+1977,Nisha Khan,23.0,Female,AI,Bhopal,3,1090000.0,175000,4.6,98.0,19,2018-01-04,No,Office,PhD,66
+1978,Aarav Singh,38.0,Male,AI,Jaipur,0,500000.0,70000,4.8,75.0,11,2017-09-13,Yes,Office,MCA,72
+1979,Ritika Jain,22.0,Male,Web,Ahmedabad,0,1280000.0,195000,3.7,82.0,6,2020-12-26,Yes,Remote,MCA,85
+1980,Karan Patel,35.0,Female,Web,Mumbai,12,1560000.0,85000,4.7,92.0,17,2024-07-20,No,Office,B.Tech,100
+1981,Vikram Jain,34.0,Male,AI,Bangalore,2,710000.0,20000,4.2,78.0,20,2019-02-17,Yes,Remote,PhD,92
+1982,Nisha Gupta,29.0,Female,Data Science,Delhi,0,1630000.0,120000,4.5,90.0,14,2021-07-22,No,Office,M.Tech,60
+1983,Yash Verma,39.0,Male,ML,Ahmedabad,13,1130000.0,160000,3.3,94.0,14,2018-04-24,Yes,Office,BCA,82
+1984,Sneha Verma,27.0,Female,DevOps,Mumbai,12,830000.0,190000,3.9,87.0,5,2025-07-26,No,Hybrid,M.Tech,79
+1985,Dev Khan,40.0,Male,Web,Hyderabad,9,1020000.0,160000,4.4,75.0,16,2018-07-14,Yes,Office,MCA,87
+1986,Nisha Singh,31.0,Female,DevOps,Ahmedabad,9,1460000.0,165000,4.2,94.0,10,2024-09-10,No,Hybrid,B.Tech,92
+1987,Dev Verma,38.0,Male,Web,Hyderabad,6,1630000.0,125000,4.7,95.0,19,2021-06-21,Yes,Hybrid,BCA,80
+1988,Arjun Patel,,Female,Data Science,Bhopal,1,1760000.0,55000,4.8,80.0,13,2018-11-03,No,Office,PhD,63
+1989,Diya Singh,,Female,ML,Jaipur,6,1090000.0,190000,3.4,92.0,18,2024-06-19,Yes,Office,PhD,90
+1990,Aarav Patel,25.0,Male,ML,Bhopal,0,1050000.0,135000,,89.0,13,2017-07-13,Yes,Office,PhD,82
+1991,Yash Verma,22.0,Male,DevOps,Chennai,9,690000.0,190000,4.6,89.0,1,2021-11-05,Yes,Office,MCA,70
+1992,Rahul Patel,23.0,Male,Web,Chennai,9,970000.0,105000,4.8,82.0,9,2020-05-26,No,Hybrid,PhD,85
+1993,Vikram Singh,33.0,Female,AI,Pune,13,540000.0,130000,4.6,85.0,6,2022-05-11,Yes,Office,B.Tech,81
+1994,Aisha Patel,31.0,Female,ML,Pune,10,1110000.0,110000,4.1,92.0,4,2021-03-06,Yes,Office,M.Tech,80
+1995,Priya Gupta,,Male,AI,Mumbai,0,1180000.0,35000,3.8,97.0,3,2025-04-24,No,Remote,M.Tech,100
+1996,Aditya Verma,37.0,Female,AI,Pune,10,1140000.0,195000,4.2,86.0,19,2024-12-27,No,Remote,BCA,68
+1997,Harsh Khan,32.0,Male,ML,Hyderabad,10,1730000.0,35000,3.9,77.0,20,2017-08-02,Yes,Hybrid,MCA,89
+1998,Yash Sharma,37.0,Female,DevOps,Hyderabad,3,990000.0,110000,3.5,91.0,19,2025-11-08,No,Remote,BCA,78
+1999,Rohan Jain,28.0,Male,AI,Jaipur,13,1700000.0,85000,3.3,91.0,20,2017-12-07,Yes,Hybrid,B.Tech,92
+2000,Ritika Gupta,39.0,Male,ML,Mumbai,9,620000.0,20000,3.5,81.0,11,2026-04-12,Yes,Remote,MCA,79
